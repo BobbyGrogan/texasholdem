@@ -1,0 +1,13 @@
+Pair in hand: ~5.8%
+
+Pair on board: ~42.3%
+Two pairs on board: ~4.85%
+Three of a kind on board: ~2.26%
+Four of a kind on board: ~0.02%
+Full house on board: ~0.14%
+
+Pair between: ~73.6%
+Three of a kind between: ~9.5%
+Four of a kind between: ~0.14%
+Two pair between: ~22.3%
+Full house between: ~4.4%

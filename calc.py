@@ -22,16 +22,17 @@ class Card:
 		self.suit = suit.upper()
 
 #deck of all 52 cards is created, not shuffled
-deck = []
-numbers = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A']
-suits = ['S','C','H','D']
-for n in numbers:
-	for s in suits:
-		card = Card(n, s)
-		deck.append(card)
+def make_deck():
+	deck = []
+	numbers = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A']
+	suits = ['S','C','H','D']
+	for n in numbers:
+		for s in suits:
+			card = Card(n, s)
+			deck.append(card)
+	return deck
 
-
-def distribute(players, deck=deck):
+def distribute(players, deck):
 	#deck is shuffled
 	random.shuffle(deck)
 	hands = []
@@ -68,12 +69,10 @@ def pair(hand):
 
 #differtiates between pair in hand, on board, and between
 def is_pair(board, hand):
-	print(board, hand)
 	pair_on_board = pair(board)
 	pair_in_hand = pair(hand)
 	both = board + hand
 	pair_between = pair(both)
-	print(pair_between)
 	#makes sure pair between is only found between
 	#if isinstance(pair_between, list):
 	#	if isinstance(pair_on_board, list):
@@ -88,12 +87,17 @@ def comp_pairs(board, hand):
 	use = is_pair(board, hand)
 	pairs_in_hand = [False]
 	pairs_on_board = [False, False, False]
-	pairs_between = []
+	pairs_between = [False, False, False]
 	if use[1] is not False:
 		pairs_on_board = pairs_on_board_func(board)
-	return pairs_on_board
+	if use[2] is not False:
+		pairs_between = pairs_between_func(board, hand)
+	if use[0] is not False:
+		pairs_in_hand = use[0]
+	return [pairs_in_hand, pairs_on_board, pairs_between]
 
 def pairs_on_board_func(board):
+	#list format: [pair or pairs of two, three of a kind, four of a kind]
 	pairs_on_board = [False, False, False]
 	use = is_pair(board, ['10s', '10c'])
 	if len(use[1]) > 2:
@@ -115,13 +119,42 @@ def pairs_on_board_func(board):
 	if len(use[1]) > 1:
 		if use[1][0] == use[1][1]:
 			three_pair = use[1][0]
+			pairs_on_board[1] = three_pair
 		else:
 			pairs_on_board[0] = [use[1][0], use[1][1]]
+	if len(use[1]) == 1:
+		pairs_on_board[0] = use[1][0]
 	return pairs_on_board
 
-
-go = distribute(4)
-print(comp_pairs(go[1], go[0][0]))
-
-#now = Hands(go[1], go[0][0])
-#print(now.is_pair)
+#this below was written lazily, would be neater not to have it as its own function
+def pairs_between_func(board, hand):
+	#list format: [pair or pairs of two, three of a kind, four of a kind]
+	pairs_between = [False, False, False]
+	use = is_pair(board, hand)
+	if len(use[2]) > 2:
+                #finds if there is a four pair on the board
+		if use[2][0] == use[2][1] and use[2][1] == use[2][2]:
+			four_pair = use[2][0]
+			pairs_between[2] = four_pair
+                #finds if there is a full house on the board
+		else:
+			if use[2][0] == use[2][1]:
+				three_pair = use[2][0]
+				two_pair = use[2][2]
+			else: 
+				three_pair = use[2][2]
+				two_pair = [i for i in use[2] if i is not three_pair]
+			pairs_between[1] = three_pair
+			pairs_between[0] = two_pair[0]
+			return pairs_between
+        #finds if there is a three pair (not full house) on the board
+	if len(use[2]) > 1:
+		if use[2][0] == use[2][1]:
+			three_pair = use[2][0]
+			pairs_between[1] = three_pair
+		else:
+			pairs_between[0] = [use[2][0], use[2][1]]
+	if len(use[2]) == 1:
+		pairs_between[0] = use[2][0]
+	return pairs_between
+ 
