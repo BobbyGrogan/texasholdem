@@ -1,0 +1,3046 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com/">
+    <link href="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons/favicon.ico" rel="shortcut icon">
+    <link rel="shortcut icon" href="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="https://www.gamblingsites.org/app/themes/gsorg2018/images/icons180x180" href="/apple-touch-icon-180x180.png" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NFRTST');
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script type="text/javascript">var sls_get_slots_console_data_url = 'https://www.gamblingsites.org/wp/wp-admin/admin-ajax.php';var sls_get_slot_game_data_url = 'https://www.gamblingsites.org/wp/wp-admin/admin-ajax.php';</script>
+	<!-- This site is optimized with the Yoast SEO Premium plugin  - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Texas Holdem Starting Hand Rankings - All 169 From Best to Worst</title>
+	<meta name="description" content="Detailed notes and rankings for every starting hand in Texas holdem poker. Which two card combinations are possible and how should you play them." />
+	<link rel="canonical" href="https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Texas Holdem Starting Hand Rankings - All 169 From Best to Worst" />
+	<meta property="og:description" content="Detailed notes and rankings for every starting hand in Texas holdem poker. Which two card combinations are possible and how should you play them." />
+	<meta property="og:url" content="https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/" />
+	<meta property="og:site_name" content="GamblingSites.ORG" />
+	<meta property="article:modified_time" content="2020-08-13T18:15:41+00:00" />
+	<meta property="og:image" content="https://www.gamblingsites.org/app/uploads/2018/10/play-poker-cta.png" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.gamblingsites.org/#website","url":"https://www.gamblingsites.org/","name":"GamblingSites.ORG","description":"Best Gambling Sites - Trusted Online Gambling Sites Reviewed 2021","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.gamblingsites.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/#primaryimage","inLanguage":"en-US","url":"/app/uploads/2018/10/play-poker-cta.png","contentUrl":"/app/uploads/2018/10/play-poker-cta.png"},{"@type":"WebPage","@id":"https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/#webpage","url":"https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/","name":"Texas Holdem Starting Hand Rankings - All 169 From Best to Worst","isPartOf":{"@id":"https://www.gamblingsites.org/#website"},"primaryImageOfPage":{"@id":"https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/#primaryimage"},"datePublished":"2018-11-29T15:05:53+00:00","dateModified":"2020-08-13T18:15:41+00:00","description":"Detailed notes and rankings for every starting hand in Texas holdem poker. Which two card combinations are possible and how should you play them.","breadcrumb":{"@id":"https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/"]}]},{"@type":"BreadcrumbList","@id":"https://www.gamblingsites.org/poker/texas-holdem/starting-hand-rankings/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gamblingsites.org/"},{"@type":"ListItem","position":2,"name":"Poker","item":"https://www.gamblingsites.org/poker/"},{"@type":"ListItem","position":3,"name":"Texas Hold'em","item":"https://www.gamblingsites.org/poker/texas-holdem/"},{"@type":"ListItem","position":4,"name":"Starting Hand Rankings"}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.gamblingsites.org' />
+<link rel="alternate" type="application/rss+xml" title="GamblingSites.ORG &raquo; Feed" href="https://www.gamblingsites.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GamblingSites.ORG &raquo; Comments Feed" href="https://www.gamblingsites.org/comments/feed/" />
+<link rel='stylesheet' id='gscom2018-bootstrap-css'  href='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/css/bootstrap-custom-8832b93160.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gscom2018-homepage-bootstrap-css'  href='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/css/homepage-bootstrap-13d6144124.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bf-page-default-css-css'  href='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/css/page-default-05f63739d9.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gscom2018-slots-styles-css'  href='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/css/slot_games-e148988f58.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gsorg2018-jquery-ui-1-10-4-custom-css-css'  href='https://www.gamblingsites.org/app/themes/gsorg2018/css/jquery-ui-1.10.4.custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cta-sticky-footer-css'  href='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/css/cta-sticky-footer-10bc4af04b.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.gamblingsites.org/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' defer src='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/js/cta-sticky-footer-1143ef5d1b.js' id='cta-sticky-footer-js'></script>
+<script type='text/javascript' id='bonuses_js-js-extra'>
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/www.gamblingsites.org\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.gamblingsites.org/app/themes/gsorg2018/public/js/filter-bonuses.js?ver=5.8.3' id='bonuses_js-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.gamblingsites.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.gamblingsites.org/wp/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.gamblingsites.org/?p=3055' />
+<link rel="icon" href="https://www.gamblingsites.org/app/uploads/2022/09/cropped-Favicon-160x160-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.gamblingsites.org/app/uploads/2022/09/cropped-Favicon-160x160-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.gamblingsites.org/app/uploads/2022/09/cropped-Favicon-160x160-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.gamblingsites.org/app/uploads/2022/09/cropped-Favicon-160x160-1-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-3055 page-child parent-pageid-3951">
+    <!-- Datadome JS -->
+    <script>
+        ! function(a, b, c, d, e, f) {
+            a.ddjskey = e;
+            a.ddoptions = f || null;
+            var m = b.createElement(c),
+                n = b.getElementsByTagName(c)[0];
+            m.async = 1, m.src = d, n.parentNode.insertBefore(m, n);
+        }(window,
+            document,
+            "script",
+            "https://js.datadome.co/tags.js",
+            "574874DFAB1E881F1194D3C534AD0E", {
+                ajaxListenerPath: true
+            }
+        );
+    </script>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFRTST" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- wrapper -->
+    <div class="wrapper" id="main_wrapper">
+        <header>
+            <div class="main_nav__wrapper">
+            <div class="main_nav">
+
+                                    <a class="main_logo" href="https://www.gamblingsites.org/"><img src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logo.png" alt="GamblingSites.org Logo" /></a>
+                
+
+
+                <div class="col2">
+                    <div class="navbar-extra-search-toggle navbar-extra-search-toggle--main">
+                      <button class="navbar-extra-search-toggle__toggle-button"><span class="navbar-extra-search__button-text">Search</span><i class="icon-search"></i><i class="icon-close"></i></button>
+                      <nav class="navbar-extra-search navbar-extra-search--main">
+                          <form id="navbar-extra-search-form-main" role="search" method="get" class="navbar-extra-search__search-form" action="https://www.gamblingsites.org/">
+                                <label for="navbar-main-search-field" class="navbar-extra-search__label">
+                                  Search for
+                                </label>
+                                <input type="search" class="navbar-extra-search__input" id="navbar-main-search-field" placeholder="Search" name="s">
+                                <button type="submit" class="navbar-extra-search__submit"><span class="navbar-extra-search__button-text">Submit</span><i class="icon-search"></i></button>
+                          </form>
+                      </nav>
+                    </div>
+
+                    <div class="navbar navbar-main navbar-expand-lg">
+                        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
+                            <!-- <i class="icon-mobile_menu"></i> -->
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar top-bar"></span>
+                            <span class="icon-bar middle-bar"></span>
+                            <span class="icon-bar bottom-bar"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse" id="main-menu">
+
+
+                            <ul id="menu-main-menu" class=" navbar-nav nav_menu"><li id="gs-item-70269" class="real-money menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item-70269 gs"><span data-hover=""></span><a title="Real Money Gambling" href="/real-money/" data-toggle="dropdown2" aria-haspopup="true">Real Money Gambling<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-70271" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70271"><span data-hover=""></span><a title="Online Casinos" href="/real-money/online-casinos/">Online Casinos</a></li>
+	<li id="gs-item-70270" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70270"><span data-hover=""></span><a title="Sports Betting" href="/real-money/sports-betting/">Sports Betting</a></li>
+	<li id="gs-item-89982" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89982"><span data-hover=""></span><a title="Poker Sites" href="https://www.gamblingsites.org/poker/sites/">Poker Sites</a></li>
+	<li id="gs-item-89981" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89981"><span data-hover=""></span><a title="Horse Racing" href="https://www.gamblingsites.org/horse-racing/sites/">Horse Racing</a></li>
+	<li id="gs-item-89318" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89318"><span data-hover=""></span><a title="Esports Betting" href="https://www.gamblingsites.org/esports-betting/">Esports Betting</a></li>
+	<li id="gs-item-70301" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70301"><span data-hover=""></span><a title="Online Slots" href="/real-money/slots/">Online Slots</a></li>
+	<li id="gs-item-70302" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70302"><span data-hover=""></span><a title="Blackjack" href="/real-money/blackjack/">Blackjack</a></li>
+	<li id="gs-item-89983" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89983"><span data-hover=""></span><a title="Video Poker" href="https://www.gamblingsites.org/real-money/video-poker/">Video Poker</a></li>
+	<li id="gs-item-89984" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89984"><span data-hover=""></span><a title="Texas Holdem" href="https://www.gamblingsites.org/real-money/texas-holdem/">Texas Holdem</a></li>
+</ul>
+</li>
+<li id="gs-item-14314" class="online-casino menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item-14314 gs"><span data-hover=""></span><a title="Online Casino" href="https://www.gamblingsites.org/casino/" data-toggle="dropdown2" aria-haspopup="true">Online Casino<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-14331" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14331"><span data-hover=""></span><a title="Best Online Casinos" href="https://www.gamblingsites.org/casino/sites/">Best Online Casinos</a></li>
+	<li id="gs-item-70298" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70298"><span data-hover=""></span><a title="Fast Payout Casinos" href="/casino/fast-paying/">Fast Payout Casinos</a></li>
+	<li id="gs-item-70299" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70299"><span data-hover=""></span><a title="US Online Casinos" href="/casino/us/">US Online Casinos</a></li>
+	<li id="gs-item-54167" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54167"><span data-hover=""></span><a title="Live Dealer Casinos" href="/casino/live-dealer/">Live Dealer Casinos</a></li>
+	<li id="gs-item-14317" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14317"><span data-hover=""></span><a title="Casino Games" href="https://www.gamblingsites.org/casino/games/">Casino Games</a></li>
+	<li id="gs-item-14315" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14315"><span data-hover=""></span><a title="Beginner&#039;s Guide" href="https://www.gamblingsites.org/casino/beginners-guide/">Beginner&#8217;s Guide</a></li>
+	<li id="gs-item-70297" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70297"><span data-hover=""></span><a title="Online Slots Guide" href="/slots/">Online Slots Guide</a></li>
+	<li id="gs-item-89985" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89985"><span data-hover=""></span><a title="Free Slot Games" href="/slots/games/">Free Slot Games</a></li>
+</ul>
+</li>
+<li id="gs-item-14305" class="sports-betting menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item-14305 gs"><span data-hover=""></span><a title="Sports Betting" href="https://www.gamblingsites.org/sports-betting/" data-toggle="dropdown2" aria-haspopup="true">Sports Betting<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-54151" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54151"><span data-hover=""></span><a title="Sports Betting Sites" href="/sports-betting/sites/">Sports Betting Sites</a></li>
+	<li id="gs-item-70287" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70287"><span data-hover=""></span><a title="Fast Payout" href="/sports-betting/sites/fast-payout/">Fast Payout</a></li>
+	<li id="gs-item-70290" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70290"><span data-hover=""></span><a title="US Sports Betting Sites" href="/sports-betting/us/">US Sports Betting Sites</a></li>
+	<li id="gs-item-14311" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14311"><span data-hover=""></span><a title="Beginner&#039;s Guide" href="https://www.gamblingsites.org/sports-betting/beginners-guide/">Beginner&#8217;s Guide</a></li>
+	<li id="gs-item-14312" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14312"><span data-hover=""></span><a title="Getting Started Online" href="https://www.gamblingsites.org/sports-betting/getting-started/">Getting Started Online</a></li>
+	<li id="gs-item-14313" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14313"><span data-hover=""></span><a title="Sports Betting Essentials" href="https://www.gamblingsites.org/sports-betting/essentials/">Sports Betting Essentials</a></li>
+	<li id="gs-item-14309" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14309"><span data-hover=""></span><a title="Sports Betting Strategy" href="https://www.gamblingsites.org/sports-betting/strategy/">Sports Betting Strategy</a></li>
+	<li id="gs-item-54164" class="football-betting menu-item menu-item-type-custom menu-item-object-custom nav-item-54164"><span data-hover=""></span><a title="Football Betting" href="/football-betting/">Football Betting</a></li>
+	<li id="gs-item-70267" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70267"><span data-hover=""></span><a title="How to Bet on Football" href="/football-betting/how-to-bet/">How to Bet on Football</a></li>
+	<li id="gs-item-70293" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70293"><span data-hover=""></span><a title="NFL Betting Sites" href="/sports-betting/sites/nfl/">NFL Betting Sites</a></li>
+	<li id="gs-item-188700" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-188700"><span data-hover=""></span><a title="Super Bowl Betting Sites" href="https://www.gamblingsites.org/football-betting/super-bowl/">Super Bowl Betting Sites</a></li>
+</ul>
+</li>
+<li id="gs-item-60972" class="reviews menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item-60972 gs"><span data-hover=""></span><a title="Reviews" href="/reviews/" data-toggle="dropdown2" aria-haspopup="true">Reviews<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-89989" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89989"><span data-hover=""></span><a title="Las Atlantis Casino" href="https://www.gamblingsites.org/reviews/las-atlantis/">Las Atlantis Casino</a></li>
+	<li id="gs-item-89987" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89987"><span data-hover=""></span><a title="Wild Casino" href="https://www.gamblingsites.org/reviews/wild-casino/">Wild Casino</a></li>
+	<li id="gs-item-89991" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89991"><span data-hover=""></span><a title="BetUS" href="https://www.gamblingsites.org/reviews/betus/">BetUS</a></li>
+	<li id="gs-item-54156" class="menu-item menu-item-type-post_type menu-item-object-reviews nav-item-54156"><span data-hover=""></span><a title="BetOnline" href="https://www.gamblingsites.org/reviews/betonline/">BetOnline</a></li>
+	<li id="gs-item-54153" class="menu-item menu-item-type-post_type menu-item-object-reviews nav-item-54153"><span data-hover=""></span><a title="MyBookie" href="https://www.gamblingsites.org/reviews/mybookie/">MyBookie</a></li>
+	<li id="gs-item-89990" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89990"><span data-hover=""></span><a title="SportsBetting.ag" href="https://www.gamblingsites.org/reviews/sportsbetting/">SportsBetting.ag</a></li>
+	<li id="gs-item-54152" class="menu-item menu-item-type-post_type menu-item-object-reviews nav-item-54152"><span data-hover=""></span><a title="Bovada" href="https://www.gamblingsites.org/reviews/bovada/">Bovada</a></li>
+	<li id="gs-item-89986" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89986"><span data-hover=""></span><a title="xBet" href="https://www.gamblingsites.org/reviews/xbet/">xBet</a></li>
+	<li id="gs-item-89988" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89988"><span data-hover=""></span><a title="Super Slots" href="https://www.gamblingsites.org/reviews/super-slots/">Super Slots</a></li>
+	<li id="gs-item-89992" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89992"><span data-hover=""></span><a title="Ignition Poker" href="https://www.gamblingsites.org/reviews/ignition-poker/">Ignition Poker</a></li>
+</ul>
+</li>
+<li id="gs-item-89993" class="reviews menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item-89993 gs"><span data-hover=""></span><a title="Popular Now" data-toggle="dropdown2" aria-haspopup="true">Popular Now<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-89994" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89994"><span data-hover=""></span><a title="Political Betting Sites" href="https://www.gamblingsites.org/gambling/political/">Political Betting Sites</a></li>
+	<li id="gs-item-70311" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70311"><span data-hover=""></span><a title="Esports Betting Sites" href="/esports-betting/sites/">Esports Betting Sites</a></li>
+	<li id="gs-item-89995" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89995"><span data-hover=""></span><a title="Gambling Bonuses" href="https://www.gamblingsites.org/bonuses/">Gambling Bonuses</a></li>
+	<li id="gs-item-89996" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89996"><span data-hover=""></span><a title="Entertainment Betting" href="https://www.gamblingsites.org/gambling/entertainment/">Entertainment Betting</a></li>
+	<li id="gs-item-89998" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89998"><span data-hover=""></span><a title="Safest Gambling Sites" href="https://www.gamblingsites.org/gambling/safe/">Safest Gambling Sites</a></li>
+	<li id="gs-item-89997" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-89997"><span data-hover=""></span><a title="Safest Betting Sites" href="https://www.gamblingsites.org/sports-betting/safest/">Safest Betting Sites</a></li>
+	<li id="gs-item-84247" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84247"><span data-hover=""></span><a title="Blacklisted Sites" href="/blacklist/">Blacklisted Sites</a></li>
+</ul>
+</li>
+<li id="gs-item-84246" class="reviews menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item-84246 gs"><span data-hover=""></span><a title="Banking" href="/banking/" data-toggle="dropdown2" aria-haspopup="true">Banking<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-90000" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-90000"><span data-hover=""></span><a title="Visa" href="https://www.gamblingsites.org/gambling/visa/">Visa</a></li>
+	<li id="gs-item-90001" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-90001"><span data-hover=""></span><a title="Mastercard" href="https://www.gamblingsites.org/gambling/mastercard/">Mastercard</a></li>
+	<li id="gs-item-90002" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-90002"><span data-hover=""></span><a title="American Express" href="https://www.gamblingsites.org/gambling/american-express/">American Express</a></li>
+	<li id="gs-item-90003" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-90003"><span data-hover=""></span><a title="Bitcoin" href="https://www.gamblingsites.org/bitcoin/">Bitcoin</a></li>
+	<li id="gs-item-90004" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-90004"><span data-hover=""></span><a title="PayPal" href="https://www.gamblingsites.org/banking/paypal/">PayPal</a></li>
+	<li id="gs-item-90005" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-90005"><span data-hover=""></span><a title="Credit Cards" href="https://www.gamblingsites.org/gambling/credit-card/">Credit Cards</a></li>
+</ul>
+</li>
+<li id="gs-item-14871" class="reviews menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item-14871 gs"><span data-hover=""></span><a title="Sites By Country" href="https://www.gamblingsites.org/countries/" data-toggle="dropdown2" aria-haspopup="true">Sites By Country<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-54097" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54097"><span data-hover=""></span><a title="US Gambling Sites" href="/gambling/us/">US Gambling Sites</a></li>
+	<li id="gs-item-54099" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54099"><span data-hover=""></span><a title="UK Gambling Sites" href="/uk/">UK Gambling Sites</a></li>
+	<li id="gs-item-54100" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54100"><span data-hover=""></span><a title="Canadian Gambling Sites" href="/canada/">Canadian Gambling Sites</a></li>
+	<li id="gs-item-54122" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54122"><span data-hover=""></span><a title="European Gambling Sites" href="/gambling/european/">European Gambling Sites</a></li>
+</ul>
+</li>
+<li id="gs-item-70272" class="country menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item-70272 gs"><span data-hover=""></span><a title="Guides" data-toggle="dropdown2" aria-haspopup="true">Guides<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-70304" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70304"><span data-hover=""></span><a title="Horse Racing" href="/horse-racing/">Horse Racing</a></li>
+	<li id="gs-item-70305" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70305"><span data-hover=""></span><a title="Online Poker" href="/poker/">Online Poker</a></li>
+	<li id="gs-item-70306" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70306"><span data-hover=""></span><a title="Online Bingo" href="/bingo/">Online Bingo</a></li>
+	<li id="gs-item-70308" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70308"><span data-hover=""></span><a title="Crypto Gambling" href="/cryptos/">Crypto Gambling</a></li>
+	<li id="gs-item-70310" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70310"><span data-hover=""></span><a title="Gambling Apps" href="/apps/">Gambling Apps</a></li>
+	<li id="gs-item-70312" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70312"><span data-hover=""></span><a title="Daily Fantasy Sports" href="/daily-fantasy-sports/">Daily Fantasy Sports</a></li>
+	<li id="gs-item-70313" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70313"><span data-hover=""></span><a title="Skill Games" href="/gambling/skill-games/">Skill Games</a></li>
+	<li id="gs-item-70314" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70314"><span data-hover=""></span><a title="State Lottery Guide" href="/state-lottery/">State Lottery Guide</a></li>
+	<li id="gs-item-70315" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70315"><span data-hover=""></span><a title="Las Vegas" href="/las-vegas/">Las Vegas</a></li>
+	<li id="gs-item-14318" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14318"><span data-hover=""></span><a title="World Casino Destinations" href="https://www.gamblingsites.org/casino/destinations/">World Casino Destinations</a></li>
+	<li id="gs-item-14316" class="menu-item menu-item-type-post_type menu-item-object-page nav-item-14316"><span data-hover=""></span><a title="Basics of Online Casinos" href="https://www.gamblingsites.org/casino/basics/">Basics of Online Casinos</a></li>
+	<li id="gs-item-195861" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-195861"><span data-hover=""></span><a title="Metaverse Gambling" href="https://www.gamblingsites.org/metaverse/">Metaverse Gambling</a></li>
+</ul>
+</li>
+<li id="gs-item-84238" class="desk-hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item-84238 gs"><span data-hover=""></span><a title="Other Gambling Info" href="#" data-toggle="dropdown2" aria-haspopup="true">Other Gambling Info<span class="expand_handler"></span></a>
+<div class="sub_menu_wrapper"><ul role="menu" class="sub_menu">
+	<li id="gs-item-84239" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84239"><span data-hover=""></span><a title="Gambling Blog" href="/blog/">Gambling Blog</a></li>
+	<li id="gs-item-84240" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84240"><span data-hover=""></span><a title="Gambling News" href="/news/">Gambling News</a></li>
+	<li id="gs-item-84241" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84241"><span data-hover=""></span><a title="Betting Picks" href="/picks/">Betting Picks</a></li>
+	<li id="gs-item-84242" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84242"><span data-hover=""></span><a title="Gambling Laws" href="/laws/">Gambling Laws</a></li>
+	<li id="gs-item-84243" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84243"><span data-hover=""></span><a title="Sites History" href="/history/">Sites History</a></li>
+	<li id="gs-item-84244" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84244"><span data-hover=""></span><a title="Popular Bios" href="/biographies/">Popular Bios</a></li>
+	<li id="gs-item-84249" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84249"><span data-hover=""></span><a title="Virtual Reality Gambling" href="/virtual-reality/">Virtual Reality Gambling</a></li>
+	<li id="gs-item-84250" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84250"><span data-hover=""></span><a title="FAQs" href="/faq/">FAQs</a></li>
+</ul>
+</li>
+</ul>                                <div class="navbar-extra-wrapper">
+                                    <div class="navbar-extra-search-toggle">
+                                        <button class="navbar-extra-search-toggle__toggle-button"><span class="navbar-extra-search__button-text">Search</span><i class="icon-search"></i><i class="icon-close"></i></button>
+                                        <nav class="navbar-extra-search">
+                                            <form id="navbar-extra-search__form" role="search" method="get" class="navbar-extra-search__search-form" action="https://www.gamblingsites.org/">
+                                                  <label for="navbar-extra-search-field" class="navbar-extra-search__label">
+                                                    Search for
+                                                  </label>
+                                                  <input type="search" class="navbar-extra-search__input" id="navbar-extra-search-field" placeholder="Search" name="s">
+                                                  <button type="submit" class="navbar-extra-search__submit"><span class="navbar-extra-search__button-text">Submit</span><i class="icon-search"></i></button>
+                                            </form>
+                                        </nav>
+                                    </div>
+
+                                    <div class="navbar navbar-extra">
+                                        <button class="navbar-toggler collapsed extra_menu" type="button" data-toggle="collapse" data-target="#extra-menu" aria-controls="extra-menu" aria-expanded="false" aria-label="Toggle navigation">
+                                            <!-- <i class="icon-mobile_menu" id="extra_menu_btn"></i> -->
+                                            <span class="sr-only">Toggle navigation</span>
+                                            <span class="icon-bar top-bar"></span>
+                                            <span class="icon-bar middle-bar"></span>
+                                            <span class="icon-bar bottom-bar"></span>
+                                        </button>
+
+                                        <div class="collapse navbar-collapse" id="extra-menu">
+                                            <div class="extra_menu_options">
+                                                <div class="container">
+                                                    <div class="bottom">
+                                                        <div class="extraMenuOptionsTitle">
+                                                            <div class="titleText"><a href="/gambling/">Other Gambling Info</a></div>
+                                                        </div>
+                                                                                                                    <ul id="menu-extra-menu" class="extra-nav"><li id="gs-item-69809" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-69809"><span data-hover=""></span><a title="Gambling Blog" href="/blog/">Gambling Blog</a></li>
+<li id="gs-item-69810" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-69810"><span data-hover=""></span><a title="Gambling News" href="/news/">Gambling News</a></li>
+<li id="gs-item-69812" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-69812"><span data-hover=""></span><a title="Betting Picks" href="/picks/">Betting Picks</a></li>
+<li id="gs-item-182" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-182"><span data-hover=""></span><a title="Gambling Laws" href="/laws/">Gambling Laws</a></li>
+<li id="gs-item-183" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-183"><span data-hover=""></span><a title="Sites History" href="/history/">Sites History</a></li>
+<li id="gs-item-184" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-184"><span data-hover=""></span><a title="Popular Bios" href="/biographies/">Popular Bios</a></li>
+<li id="gs-item-193" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-193"><span data-hover=""></span><a title="Virtual Reality Gambling" href="/virtual-reality/">Virtual Reality Gambling</a></li>
+<li id="gs-item-198" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-198"><span data-hover=""></span><a title="FAQs" href="/faq/">FAQs</a></li>
+</ul>                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div> 
+
+                    </div>
+                </div>
+                                
+            </div>
+            </div>
+                        </header>
+
+        <div id="parallax">
+            <!-- parallax wrapper -->
+                            <div class="breadcrumb-container">
+                    <div class="container">
+                        <p id="breadcrumbs"><span><span><a href="https://www.gamblingsites.org/">Home</a> » <span><a href="https://www.gamblingsites.org/poker/">Poker</a> » <span><a href="https://www.gamblingsites.org/poker/texas-holdem/">Texas Hold'em</a> » <span class="breadcrumb_last" aria-current="page">Starting Hand Rankings</span></span></span></span></span></p>                    </div>
+                </div>
+                                        
+            
+<div id="site_content_wrapper" class="site_content_wrapper">
+    <div class="container">
+                 
+            <h1>Texas Holdem Rankings for All 169 Starting Hands</h1>
+                        
+<p>Ever since the early days of Texas holdem poker, players have attempted to analyze and organize the 169 possible two card starting hands found in the game.</p>
+<p>One traditional way of doing so involves running thousands upon thousands of simulations in which a particular holdem hand is played out against nine random opponent hands. Using this process, the results of every single simulation hand dealt out can be tracked to determine exactly how often a given hand prevails against the nine random hands it would be up against in a traditional tournament or cash game table.</p>
+<p>As you might have guessed, the hand that scores highest under this methodology is pocket aces, and the old saw about 2 7 off suit being the worst holdem hand comes from these very same calculations.</p>
+<p>But what about the other 167 starting hands you&#8217;ll invariably be dealt over the duration of your poker playing life?</p>
+<p>                <a href="https://www.gamblingsites.org/go/betonline/" rel="nofollow noopener noreferrer" ></p>
+<div class="play-poker">
+<div class="left-side">
+                            <img src="/app/uploads/2018/10/play-poker-cta.png" alt="desktop"/>
+                        </div>
+<div class="middle-section">
+<div class="play">
+                                <img src="/app/uploads/2018/10/play-poker-img.png" alt="poker" />
+                            </div>
+<div class="play-text">
+                                <span>from the Comfort of Your Own Home</span><br />
+                                <span>RIGHT NOW</span>
+                            </div>
+<div class="play-btn">
+                                <span><i class="icon-tall-arrow"></i>Visit BetOnline&#8217;s Poker Room</span>
+                            </div>
+</p></div>
+<div class="right-side">
+                            <img src="/app/uploads/2018/10/play-poker-cta-1.png" alt="chips" />
+                        </div>
+</p></div>
+<p>                </a></p>
+<p>Diving into the data can provide many valuable insights on how holdem hands really stack up, dispelling common myths like the best hand to take against aces, while providing a structured system of comparison between close cousins like Queen Ten and Queen Nine suited.</p>
+<p>Of course, this system is based on a no fold&#8217;em philosophy, as it assumes all nine opponent hands will play through to the showdown. In real poker, this scenario will almost never occur, as betting and raising thins the proverbial herd and creates two way heads up showdowns for the most part, along with occasional three way or otherwise multiple way showdowns.</p>
+<p>So when a hand like pocket queens is said to win 22 percent of the time, keep in mind that this premium holding will really win many more showdowns than that number suggests. The metric is simply an effective way to compare how each holdem hand fares against a table full of opponents.</p>
+<p>Another point which bears mentioning is that poker is, above all else, a situational game that rewards many different styles. Depending on a whole host of variables, including position, stack size, number of players in the hand, current bet or raise status, and your read on a particular player, you&#8217;ll eventually play every single hand on this list during your time at the tables.</p>
+<p>And you&#8217;ll also play those hands in very different ways, depending on the situation at that moment. One day limping in with pocket aces against a very aggressive player will be the right play for you, and the next day that same hand will warrant a big raise to isolate an opponent who has telegraphed their hand as a big pocket pair. When the action folds around to you in the small blind, pretty much every hand in the deck can be raised, especially in tournament situations where stack size or payout jumps can force opponents to fold far too frequently.</p>
+<p>As you can see, it&#8217;s all situational in holdem, so while hand ranking systems are quite useful for organizing your thought processes on certain hands and hand ranges, the capsules for each hand are by no means definitive in terms of strategic thinking. Instead, think of them more as general guidelines to use as a beginner, before you develop your own approach to each hand in the deck, along with a few interesting notes on the hand&#8217;s history when appropriate.</p>
+<p>Read on to see where your favorite hand really stands on the holdem hierarchy, according to Rank X / 169 and win percentage probability of winning versus nine random hands:</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Diamond-A-Spade.jpg" alt="Pair of Aces" /></td>
+<td>1 / 169</td>
+<td>31%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Known affectionately as American Airlines, pocket rockets, or simply the bullets, a wired pair of aces is the top starting hand in all of Texas holdem. As you can see, bringing aces to battle against nine random hands gives you nearly a one third chance of winding up the winner.</p>
+<p>But most holdem hands involve just one or two opponents, and pocket aces will always have another hand crushed before the flop:</p>
+<ul class="greenBullet">
+<li>A A vs. K K = A A wins 80 percent</li>
+<li>A A vs. A K = A A wins 87 percent</li>
+<li>A A vs. 2 2 = A A wins 80 percent</li>
+<li>A A vs. 7 6 suited = AA wins 77 percent</li>
+</ul>
+<p>When it comes to playing aces, position isn&#8217;t all that important, and the only goal aside from the odd satellite situation should be trying to get as much of your stack into the middle as possible. Beware the trap of trying to get too many players into the pot though, as your win probability with aces is always stronger against fewer opponents.</p>
+<p>The optimal scenario, of course, is to force heads up action between yourself and a single player who, should they flop top pair or have a pair in the hole already, will be in a world of hurt on subsequent streets.</p>
+<p>The only word of warning about pocket aces concerns the concept of over attachment. If you have the two black aces, but the flop brings three hearts on board, and the turn delivers a fourth, you&#8217;re more than likely losing to a flush. Another classic way to get crushed with aces in the hole happens when the flop brings a pair, like K K 2 or 9 9 5. In this case, it can be easy to convince yourself that you deserve to win, or that your opponent can&#8217;t have that particular card.</p>
+<p>But as the old saw goes, with pocket aces you&#8217;ll usually win a small pot or lose a big one, so beware of troublesome boards and have the discipline it takes to drop the bullets when they&#8217;ve clearly been busted.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Heart-K-Spade.jpg" alt="King of Hearts and King of Spades" /></td>
+<td>2 / 169</td>
+<td>26%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The cowboys are the second strongest starting hand in the game, and unless your opponent has A A specifically, pocket kings will always rate to be an overwhelming favorite. Once again, position doesn&#8217;t really affect your approach to playing kings all too much, and you&#8217;ll usually be delighted get your money in before the flop. With that said, the best players in the world know how stay disciplined, so if you have pocket kings and face an open, a three bet, and a four bet before you, there&#8217;s no shame in laying them down when you&#8217;re confident somebody has two aces.</p>
+<p>Of course, pocket kings have another nickname among experienced players: ace magnets. With kings in the hole, the only card on the flop you&#8217;ll hate to see is an ace, so naturally, it seems as though the elation of squeezing two kings is usually followed by the tense dread of seeing an ace fall on the flop. Add in the fact that opponents tend to play hands with aces in them, and pocket kings can occasionally be slayed by some fairly weak ace rag holdings.</p>
+<p>Inexperienced players tend to make two mistakes with kings: refusing to believe that an opponent flopped an ace, and giving too much credit and folding without a fight every time an ace arrives. Finding the perfect balance between caution and courage in that spot takes some practice, and you&#8217;ll undoubtedly make a few mistakes with kings along the way, but learning to play number two is an essential part of improving your game.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Club-Q-Diamond.jpg" alt="Queen of Clubs and Queen of Diamonds"/></td>
+<td>3 / 169</td>
+<td>22%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Pocket queens present all of the same benefits as kings, along with one additional problem. Namely, you&#8217;ll usually be quite happy to squeeze the ladies, as the third strongest hand in the game dominates every other pocket pair, and most big aces A Q, A J, A 10 too.</p>
+<p>The big difference, however, is that pocket queens are vulnerable to A K, which gives an opponent two over cards to work with for a coin flip scenario. The point of playing a big pocket pair like queens is to avoid the higher volatility of racing in holdem – or taking a low to medium pocket pair up against any two over cards in a pre flop all in. But with two queens, you can easily get your stack in, only to see your opponent table A K to create the exact coin flip you&#8217;ve been working hard to avoid all session.</p>
+<p>Queens also suffer from the ace magnet dilemma, but in this case, a king on board will also be cause for concern. So even though pocket queens represent a proverbial monster, and the temptation will be to play them aggressively, you&#8217;ll actually find plenty of spots where folding the hand is actually appropriate and correct – such as when facing multiple points of aggressive action pre flop before you&#8217;ve even acted. In this scenario, an early raise followed by a reraise or two typically signals hands like A K or better, so playing pocket queens at that point can put you in a bad position.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Diamond-K-Diamond.jpg" alt="Ace of Diamonds and King of Diamonds"/></td>
+<td>4 / 169</td>
+<td>20.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>This is the first non paired starting hand on the list, and as such, it includes information on suitedness. And as you can see by scrolling down a bit, Ace King suited is actually a much better hand than its off suit equivalent.</p>
+<p>Poker players love big slick as much as any other hand in the game besides pocket aces. This has something to do with the concept of potential no doubt, because even though an A K in matching suits looks pretty, it&#8217;s still just an ace high hand until you improve. Aside from flopping a set, there&#8217;s nothing quite so satisfying as putting chips into the pot holding A K, before watching the dealer slide out a flop that pairs your hand.</p>
+<p>But when you do improve, flopping an ace or a king most likely, you&#8217;ll always have at least top pair and top kicker to work with, giving you a huge leg up over randomized opponent hands. Remember, many showdowns boil down to the best kicker, or second card in addition to the pair being played, so A K protects you from kicker trouble in almost every scenario if your opponent pairs their inferior kicker to make two pair, you&#8217;re simply out of luck there.</p>
+<p>Similarly, a suited A K is also invulnerable to higher flushes, because you&#8217;ll always hold the nut flush – or the best possible flush – using big slick. In the same vein, the only straight you can make with A K is the Broadway variety, or A K Q 10 J, so once again you&#8217;ll be protected against losing to the higher end.</p>
+<p>From a positional perspective, A K suited is a great hand to open with from early position, but the real fireworks come from late position thanks to the aptly named squeeze play. When an open and either a call or three bet has come in before you, rearising from the hijack, cutoff, or button seats is a staple of aggressive strategy. When you can make this move holding a monster like A K suited, however, players who play back at you assuming you&#8217;re on a bluff will find themselves up against the real deal.</p>
+<p>And for short stacked players looking to double up in a hurry, A K suited is one of the best push and pray hands you can have. Once you get the chips in, the only hand you&#8217;ll ever be truly crushed by is pocket aces which will win 87 percent of the time. Against two kings, you&#8217;ll still have 34 percent equity, and you&#8217;ll be flipping a coin against all other pocket pairs. Any ace high hand that calls you will be dominated too, so when in doubt, A K is as good of hand as any to make your stand on.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Diamond-J-Spade.jpg" alt="Jack of Diamonds and Jack of Spades" /></td>
+<td>5 / 169</td>
+<td>19.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The fishhooks are universally despised by recreational players as an impossible hand to play correctly, but that&#8217;s a matter of perception versus reality.</p>
+<p>As a pair of face cards, pocket jacks just feels like stronger hand than what it truly is: a medium pocket pair. Indeed, as you can see, J J rates closer to 10 10 in terms of performance against nine random hands than it does to Q Q.</p>
+<p>But when you&#8217;re in the heat of the moment, during a rough stretch of cards or struggling to run up a stack, the sight of two jacks in the hole can cause even experienced players to become a little too attached.</p>
+<p>The problem with jacks is that, as millions of recreational players have already alluded to, you&#8217;ll never have a great way to play them.</p>
+<p>Shove all in with jacks, and you&#8217;ll typically only be called by hands like Q Q, K K, and A A all of which have you crushed or A K, A Q, and K Q all of which represent coin flips.</p>
+<p>Slow down and see the flop though, and pocket jacks can shrink up in a hurry whenever any over cards appear on board. After all, opponents tend to play aces and faces, so flops like K 7 2 or A Q 5 can cause pocket jacks to become severe underdogs in a hurry.</p>
+<p>For this reason, many players swear by simply folding pocket jacks rather than get caught up in one of those two unfavorable situations. This is ludicrous, of course, because folding the fifth best starting hand in the game simply sacrifices too much equity over the long run. Sure, you might find the correct spot to lay down jacks, especially after opening from early position only to be faced with multiple rearises after that – and indeed, doing so is the mark of a disciplined style.</p>
+<p>But for the most part, you should be looking to solve that age old holdem puzzle: finding a way to play jacks correctly. You&#8217;ll surely take your lumps here and there, because jacks aren&#8217;t the monster they&#8217;re made out to be, but wielding this hand effectively is a dangerous weapon in any holdem player&#8217;s arsenal.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/A-Spade-Q-Spade.jpg" alt="Ace of Spades and Queen of Spades" /></td>
+<td>6 / 169</td>
+<td>18.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>In his famous Super / System, universally regarded as the bible of poker strategy books, poker legend Doyle Brunson devoted the third chapter to his list of 10 trouble hands – or starting hands that should only be played in certain situations if at all.</p>
+<p>And Ace Queen was at the top of that list for Texas Dolly.</p>
+<p>In fact, as he mentions in a list of hand nicknames, the A Q has long been – &#8216;Doyle Brunson&#8217; in Texas because I never play this hand.</p>
+<p>By the time Super / System 2 was released in 2004 to update the original, Brunson softened his language somewhat, advising readers that he only tries never to play this hand.</p>
+<p>In any event, Brunson&#8217;s words of wisdom on A Q, suited or otherwise, still hold true today. Obviously, you shouldn&#8217;t be folding it every time out, as it still ranks as the sixth strongest starting hand out there. Putting a few chips into the middle and taking a flop with A Q isn&#8217;t a bad idea in the slightest, as you&#8217;ll rate to beat random hands much more often than they&#8217;ll beat you.</p>
+<p>But you should always exercise caution when playing a big pot with A Q in the hole, for one simple reason: kicker trouble. When you find the flop you want, something like A 9 3 for top pair, A Q can look like a world beater. Get the chips all in, however, and more often than not an opponent will happily roll over A K to have you outkicked.</p>
+<p>A K is an eminently playable hand – much more so than A J – so even when you&#8217;ve made top pair, A Q tends to run into that stronger King kicker quite often.</p>
+<p>For that reason, A Q even suited is best played cautiously, especially from early position when the chances of somebody finding A K behind you are much higher. On the flip side, in late position with no aggression in front of you, it&#8217;s safe to assume that A Q is in the lead at the moment.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/K-Spade-Q-Spade.jpg" alt="King of Spades and Queen of Spades" /></td>
+<td>7 / 169</td>
+<td>18.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Another hand memorialized in a poker strategy book is King Queen suited, after Daniel Negreanu penned the following appraisal in his 2008 strategy book More holdem Wisdom for All Players:</p>
+<blockquote>
+<p>Novice players commonly overvalue the strength of K Q when they flop a pair to it. And on a queen high flop most amateur players&#8230; aren&#8217;t sophisticated enough to know when to play the hand to the river and when to let it go.</p>
+</blockquote>
+<p>As Kid Poker alludes to, K Q is always a tricky hand to play after the flop, even in the favorable scenario offered by flopping top pair. On either a king high or queen high flop, K Q is crushed by A K and A Q, respectively.</p>
+<p>And even with the strength of suited cards, making a king high flush is always nice – until your opponent tables the nut flush with an ace high hand.</p>
+<p>Both of these scenarios refer to something called second best syndrome, which simply describes the all too common occurrence of making the second strongest hand at the moment. Invariably, you&#8217;ll run into that nut hand from time to time, and when you do, K Q can lead you to bleed away significant portions of your stack by calling off.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/A-Diamond-J-Diamond.jpg" alt="Ace of Diamonds and Jack of Diamonds" /></td>
+<td>8 / 169</td>
+<td>17.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Deciding how to play any hand in holdem is predicated on the power of position, but that maxim is especially accurate with Ace Jack suited.</p>
+<p>From early position, solid players are known to simply ditch it without a second thought, confident in the knowledge that at least one of the many players left to act holds J J, Q Q, K K, A A, A Q, or A K – all hands that dominate A J.</p>
+<p>Another safe course of action in early position would be to test the waters with an open, but retreat at the first sign of aggression in the form of a three bet.</p>
+<p>The trouble with A J suited is its kicker of course, because you&#8217;ll be crushed by two commonly played ace high hands in A Q and A K whenever an Ace drops.</p>
+<p>To increase your confidence that these stronger Aces are out of the equation, A J should be played from late position more often than not. That way, you&#8217;ll be able to see if any early position openers or middle position three bettors have signaled that they hold big Aces. If they do, get out of the way, and if they don&#8217;t, you can at least be mildly confident if you happen to find an Ace on the flop.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Diamond-K-Diamond.jpg" alt="Ace of Diamonds and King of Diamonds" /></td>
+<td>9 / 169</td>
+<td>17.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Hands like King Jack suited straddle that fine line between strong and marginal holdings. Although it looks quite nice, K J suited is best played as a speculative hand, or one which can be played fast when it fits the board perfectly, and ditched without a care when it doesn&#8217;t.</p>
+<p>With two face cards to work with, and suited cards to boot, the potential for making straights and flushes is higher with K J suited.</p>
+<p>In terms of landing a straight, K J is a great hand because you&#8217;ll have the nuts on action boards like A Q 10 and Q 10 9. As for the flush, a king high flush is always nice to see, but you&#8217;ll still have to fade the deck delivering a fourth suit on board to counterfeit your hand, sending the pot to an opponent holding just the Ace.</p>
+<p>K J should be played cheaply, if at all, thus creating a low risk / high reward dynamic in which you can get paid for making monsters and avoid getting hurt on single pair hands.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Spade-10-Heart.jpg" alt="Ten of Spades and Ten of Hearts" /></td>
+<td>10 / 169</td>
+<td>16.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Pocket tens are the first pocket pair on the list that doesn&#8217;t include face cards, and as such, players tend to approach it like any other medium pair.</p>
+<p>This is a good thing, preventing the same sort of issues that plague players with pocket Jacks, but it can also lead to other issues.</p>
+<p>Namely, players tend to play pocket 10s too weakly, essentially trying to set mine with them and hope to hit a third 10 on the flop. But when the flop brings an over card or two to the board, which is quite likely, pocket 10s tend to be dumped in the face of that first continuation bet.</p>
+<p>Conversely, if the flop comes something like 9 4 2, or anything else where the high card on board is lower than a 10, players can become far too attached to their overpair. In this scenario, you&#8217;ll have a good chance of running smack into a real overpair like J J, Q Q, K K, or A A. And even if your opponent actually started with an inferior pair, those low card flops give them three chances to have scored a set.</p>
+<p>Position is key once again, so if you&#8217;re first to act, a plan of open and fold to a three bet doesn&#8217;t sacrifice too much equity. From late position, pocket 10s can be played flexibly, either as a strong hand to take against the blinds, or as a prime squeeze play candidate that still has a decent shot of flopping well when your big three bet or four bet happens to get called.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Heart-K-Club.jpg" alt="Ace of Hearts and King of Spades" /></td>
+<td>11 / 169</td>
+<td>16.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>An unsuited big slick plays essentially the same as its suited counterpart, so the basic words of warning about overplaying Ace King still apply.</p>
+<p>It&#8217;s a great hand all things considered, but for cash game players especially, the tendency to jam 100 big blind stacks or more into the middle with an unpaired hand can be severely detrimental over the long run.</p>
+<p>The old needle used on players who just overcommitted themselves with A K off suit says that&#8217;s a drawing hand. And while that quip is usually made in jest, the joke actually contains a hard earned truth: A K in holdem can hold its own in a pre flop confrontation, but the best players try to avoid those highly volatile coin flips in favor seeing a flop first.</p>
+<p>And even when you miss the flop entirely, on something like 8 6 3, strong players know how to wield A K as a bluff catcher. After all, A K on that board is the nut no pair hand, or the best hand you can have minus any pair. So when players act aggressively pre flop – signaling a strong hand like A Q, A J, or K Q – but wind up whiffing on these ragged flops, you can comfortably call their continuation bet bluffs knowing you have the best possible unpaired hand.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Heart-10-Heart.jpg" alt="Ace of Hearts and Ten of Hearts" /></td>
+<td>12 / 169</td>
+<td>16.60%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Interestingly enough, if you polled a random group of holdem players and asked them to define ace rag hands, a good portion of responses would run from Ace 2 through Ace 9 – while leaving Ace 10 suited in the realm of playable hands.</p>
+<p>This is because of the Broadway appeal, as A 10 contains two of the five Broadway cards, or the highest five cards in the deck A K Q J 10. Another reason people favor A 10 is that you can&#8217;t make a straight in holdem with a 10 or a 5 involved, so the hand tends to form many more straights than weaker aces. Finally, the suited aspect offers the potential to make the nut flush, or even the elusive royal flush if the deck cooperates.</p>
+<p>Even so, this really is just an ace rag hand disguised as something better, as evidenced by the narrow gap in win percentage between A 10 suited 16.60 percent and A 9 suited 14.60 percent. So consider folding it straight away from early position, while proceeding with prudent caution from middle and late position.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Club-J-Club.jpg" alt="Queen of Clubs and Jack of Clubs" /></td>
+<td>13 / 169</td>
+<td>16.60%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Experienced players love hands like Queen Jack suited because it offers so many pre flop possibilities.</p>
+<p>When the flop comes A K 10, K 10 9, or 10 9 8, all three combinations will make Q J the nut straight – perfect for avoiding the pitfall of landing a dummy or low end straight.</p>
+<p>Even flops like 10 9 X and K 10 X provide a tremendous opportunity, creating open ended straight draws to the nuts that are partially concealed from casual opponents.</p>
+<p>Making a flush with this hand will provide a little more drama, as you&#8217;ll always be in fear of king high and ace high flushes, either of the made variety or if a fourth suited card hits the board.</p>
+<p>As for flopping pairs, Q J suited is the type of hand you&#8217;ll want to make two pair or better with, because any one pair holding will have plenty of kicker issues.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Spade-10-Spade.jpg" alt="King of Spades and 10 of Spades" /></td>
+<td>14 / 169</td>
+<td>16.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A hand like King Ten suited is another favorite for beginners that experienced holdem enthusiasts avoid like the plague.</p>
+<p>From early position, K 10 suited is a likely candidate for just folding and living to fight another day. You&#8217;ll simply face too much downside and not enough upside to justify playing it in a multiway pot.</p>
+<p>Sure, K 10 can flop straights on the A Q J and Q J 9 flops, both of which make it the nuts, but those rare perfect flops will be far outweighed by the 10 9 4 and K 5 2 varieties. In each case, you&#8217;ll have top pair, but one pair of 10s can be brought down by any big pocket pair, while a pair of kings and just a 10 kicker is a recipe for disaster in a big pot.</p>
+<p>Finally, chasing that king high flush can seem like a fool&#8217;s errand when you wind up crashing into the ace high variety.</p>
+<p>All in all, K 10 suited has more to lose than it does to gain, making it more of a marginal hand than the Broadway card monster it appears to be.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Spade-10-Spade.jpg" alt="Queen of Spades and Ten of Spades" /></td>
+<td>15 / 169</td>
+<td>15.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Another hand that sits right on the fringes between playable and passable, Queen Ten suited a favorite hand for speculative players looking to land sneakily disguised hands.</p>
+<p>Any flop containing K J X or 9 J X brings an open ended straight draw to the nuts, while flops like A J X, A K X, K 9 X and J 8 X offer gutshot straight possibilities at the very least.</p>
+<p>Players of all stripes love getting to the flop for cheap with Q 10 suited, because they know so many three card combinations will provide at least one draw or another. And in many cases, Q 10 suited will find combo draws, or a straight draw and flush draw combined, creating situations with 12 or more outs going to the turn or river.</p>
+<p>And when the hand hits something marginal like a single pair, Q 10 suited is easy to lay down because you&#8217;ll generally suspect either kicker isn&#8217;t up to snuff when the action escalates.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Spade-10-Spade.jpg" alt="Jack of Spades and Ten of Spades" /></td>
+<td>16 / 169</td>
+<td>15.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A regularly cited poker proverb claims that if you had to play one hand against pocket aces with your life on the line, Jack Ten suited would be the best possible hand to slay the dragon.</p>
+<p>The reasoning behind this almost accurate urban legend is simple really: J 10 suited can make more straights than any other hand A K Q, K Q 9, 8 9 Q, and 7 8 9, all of which make the nuts; with the added flush outs putting it over the top in terms of equity.</p>
+<p>Indeed, taking J 10 suited up against pocket aces offers a 21.55 percent chance of winning the hand after a five card run out – which is great, all things considering. But as you&#8217;ll discover later in the section, a few smaller suited connectors actually create a slightly higher probability of cracking aces.</p>
+<p>Even so, J 10 suited is a favorite hand for any poker player based on the bounty of possibilities the hand offers on every flop. You&#8217;ll almost always flop some sort of draw or outs, with the chance to improve to strong hands on the turn or river, making J 10 suited a great hand to execute the float play that has become so popular of late.</p>
+<p>The objective with a hand like J 10 suited should always be to see the flop, and unlike most holdem hands, playing against a few other opponents in a multiway pot is actually preferable to getting heads up. This is based on the concept of implied odds, or the impact of additional chips you&#8217;ll be likely to earn from opponents should you connect to form a big hand. Because J 10 suited can make so many nut straights, along with a fairly high flush, getting a few players into the pot ensures that you&#8217;ll have a Huckleberry to pick on after spiking your gin card.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/9-Diamond-9-Spade.jpg" alt="Nine of Diamonds and Nine of Spades" /></td>
+<td>17 / 169</td>
+<td>15.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Pocket nines are a particularly tricky pocket pair because they&#8217;re neither high nor low.</p>
+<p>That is to say, eight high and seven high flops make 9 9 an overpair, which is dangerous because 10 10, J J, Q Q, K K, and A A are all still out there. On the other side of the coin, 9 9 will frequently be out flopped by three card combinations that contain one, two, or even three over cards.</p>
+<p>This can lead to a damned if you do, damned if you don&#8217;t dynamic, whereby any sort of flop that doesn&#8217;t contain a third nine will leave you wondering exactly where you&#8217;re at in the hand.</p>
+<p>For that reason, 9 9 should generally be considered more of a low pocket pair than anything else, suitable for set mining – or seeing a cheap flop in hopes of spiking a third nine.</p>
+<p>That means limping or opening small from early position  – with the plan being to fold in the face of a three bet – or making your standard late position play to get to the flop against a random blind hand. When faced with a big bet before the flop, it can be tough to lay hands like 9 9 down especially when that set does happen to appear, but in the long run you&#8217;ll be far better off folding marginal pocket pairs to major aggression.</p>
+<p>Of course, should the flop bring all baby cards, or a single over card, your pocket pair still rates to be good a decent portion of the time. So playing 9 9 post flop can be a tricky proposition all the way around.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Club-Q-Heart.jpg" alt="Ace of Clubs and Queen of Hearts" /></td>
+<td>18 / 169</td>
+<td>14.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Most of what needs to be said about Ace Queen off suit was covered in the suited entry for the hand, as they both play in a very similar fashion.</p>
+<p>Doyle Brunson was no dummy, and if he avoided playing A Q at all costs, he had a good reason. Sure, poker has evolved in many ways since the days of the Texas road gamblers, but one truth remains unchanged: A Q is always dominated by A K.</p>
+<p>But part of the reason for the old timers&#8217; derisive view of A Q off suit was based on generational hand strength limits. In other words, players back then just didn&#8217;t get into the pot with A J or worse very often, if at all. So playing A Q was never a winning proposition, because it was almost always running up against A K or a big pocket pair.</p>
+<p>Things have changed though, and today most holdem players in tournaments and cash games alike will gladly take a flop with A J, A 10, or K Q – all hands which are dominated by A Q.</p>
+<p>So by all means, feel free to loosen up your game just a bit with A Q in the hole. But be cognizant of the cooler factor – or the tendency for big hands to collide in seemingly set up collisions – and realize that sometimes an ace high flop just means you have the second best hand.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Club-9-Club.jpg" alt="Ace of Clubs and Nine of Clubs" /></td>
+<td>19 / 169</td>
+<td>14.60%</td>
+</tr>
+</tbody>
+</table></div>
+<p>If you were able to track all time rates for money won and lost when playing hands like Ace Nine suited, they&#8217;d invariably wind up among the poorest performers.</p>
+<p>The reason for this is the perception of playability. In short, most recreational players like the look of any suited ace high hand because it offers a draw to the nut flush. Anybody who has ever found that fifth suited card to fill their ace high flush knows that it&#8217;s one of the most enjoyable moments in poker. You&#8217;re likely to get paid off in a big way when opponents hold inferior flushes, and in many cases your hand is well disguised.</p>
+<p>So after squeezing a hand like A 9 suited, most casual players perk up and put calling chips into the pot, even at the price of an open or three bet, just for the privilege of trying to flop two or three of the right suit.</p>
+<p>Of course, the odds of flopping a flush are a paltry 118 to 1 against, for just an 0.84 percent shot. Flopping just a flush draw is an 8.1 to 1 proposition, so you&#8217;ll only find four to a flush 11 percent of the time – and from there it&#8217;s only 19.1 percent to fill that flush on the turn, 19.6 percent on the river, and 35.0 percent when seeing both cards.</p>
+<p>In the end, these number add up to one truth: you won&#8217;t be making nearly as many flushes in holdem as your selective memory would have you believe. So more often than not, playing a hand like A 9 suited will result in a complete whiff on flush outs, with you chasing a flush draw, or the all too common outkicked ace scenario.</p>
+<p>You&#8217;ll make the nut flush and drag big pots here and there, but unless you exercise pot control and discipline when drawing to the hand, steady losses incurred along the weigh will likely outweigh the occasional wins.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Club-Q-Heart.jpg" alt="King of Clubs and Queen of Hearts"/></td>
+<td>20 / 169</td>
+<td>14.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Kid Poker already said it best in the King Queen suited entry, so we&#8217;ll just say that all of the drawbacks for that hand apply to the off suit variety as well.</p>
+<p>Throw in a few percentage points of equity lost by losing the suited element, and K Q off suit becomes another hand that simply plays poorly post flop against competent players. You&#8217;ll be outkicked in many one pair showdowns, and dominated by the big ace high hands when stacks get in before the flop.</p>
+<p>That&#8217;s not to say K Q shouldn&#8217;t be played of course, only that sharp players approach it as just another marginal hand to try and play well, rather than a monster that plays itself.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/8-Heart-8-Spade.jpg" alt="Eight of Hearts and Eight Spades" /></td>
+<td>21 / 169</td>
+<td>14.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The snowmen are a favorite hand for set miners, as a third eight on the board tends to fit in with the likely range of opponents in many pots.</p>
+<p>Players sitting on connectors or one gappers between 5 6 and 9 10 are usually happy to see an eight arrive on board, as it adds either gutshot or open ended straight draw possibilities. So unlike pocket pairs like deuces, when you happen to hit a huge hand with a set or better of eights, the likelihood that someone else made a quality second best hand is higher.</p>
+<p>Pocket eights are a right in the middle of the pair range, so they should be approached as such: nothing to scoff at, but nothing special either. When the flop fails to bring that coveted set, unless it&#8217;s a baby board like 5 6 7 that also provides additional outs, you&#8217;re usually better on moving on to the next hand rather than mixing it up.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Club-9-Club.jpg" alt="King of Clubs and Nine of Clubs" /></td>
+<td>22 / 169</td>
+<td>14.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>One of those curious holdem hands that looks a lot better than it really is, King Nine suited has more drawbacks working against it than anything else.</p>
+<p>Spiking a flush is always nice, and the king high version only loses to the ace high nut, but as you might expect, that&#8217;s the one you&#8217;ll run into more often than not in bigger pots. People aren&#8217;t as willing to bring a queen high flush draw to battle, so if sizable bets are being made on a three flush board, chances are high that a king high hand has been bested.</p>
+<p>Perhaps even worse than that though, K 9 can only make one straight, and that&#8217;s on the Q J 10 board. Once again, hitting your hand in this spot is nice, but you&#8217;ll always have to fear the possibility that somebody&#8217;s big slick has materialized into Broadway.</p>
+<p>Simply put, K 9 suited is tailor made hand for landing second best hands. Unless you&#8217;re playing it as a blind steal or a bluff, it&#8217;s normally not fit for full ring play on a regular basis.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/10-Spade-9-Spade.jpg" alt="Ten of Spades and Nine of Spades" /></td>
+<td>23 / 169</td>
+<td>14.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Ten Nine suited is a perfectly playable drawing hand that holds plenty of potential for taking down premium holdings.</p>
+<p>It makes three nut straights 6 7 8, 7 8 J, 8 J Q, two of which are nicely disguised on most boards, giving you a good chance to sneak up on opponents who become overly attached to their hands.</p>
+<p>The goal with a hand like 10 9 suited before the flop should be to see three cards as cheaply as possible. From there, it&#8217;s all about assessing your draws and pot odds, before coming to the correct decisions on how to proceed.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Club-8-Spade.jpg" alt="Ace of Clubs and Eight of Clubs" /></td>
+<td>24 / 169</td>
+<td>13.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Ace Eight suited is just A 9 suited with a slightly worse kicker.</p>
+<p>So the same caveats about the danger of chasing flush draws and watching out for kicker trouble apply.</p>
+<p>Suited aces have their place, and you&#8217;ll no doubt be seeing a few flops with A 8 suited. The goal with a hand like this is just to pick your spots wisely, and avoid investing too much of your stack in marginal drawing spots.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Club-9-Club.jpg" alt="Queen of Clubs and Nine of Clubs" /></td>
+<td>25 / 169</td>
+<td>13.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A watered down version of Queen Ten suited, the Queen Nine suited is a hand that looks more playable than it really is.</p>
+<p>You&#8217;ll often flop one draw or another, but as mentioned many times already, some draws lead to nothing but a second best hand. On flops like J 10 X, for example, spiking a King to make a straight can be disastrous when your opponent shows up with A Q.</p>
+<p>This hand, like many of those to come, is really playable based on position more than any other factor. It only merits entering unraised pots when most of the table has already folded around, or defending your blinds in certain spots.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Diamond-9-Diamond.jpg" alt="Jack of Diamonds and Nine of Diamonds" /></td>
+<td>26 / 169</td>
+<td>13.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The fact that Jack Nine suited is ranked one position better than the Ace Jack off suit below, despite a clearly inferior kicker, speaks to its strong drawing potential.</p>
+<p>The J 9 suited can obviously make a flush and a straight flush if fate is smiling on you that day, but the real advantage is found in several favorable straightened board.</p>
+<p>Whenever the board reads anything like 7 10 X, 8 Q X, or 10 K X, the J 9 finds a well disguised gutshot draw. Obviously, boards containing the 8 10 X or 10 Q X offer open ended draws. But when you combine those boards, with something like 7 10 K, the J 9 connects for a double gutshot, or double belly buster, straight draw.</p>
+<p>With so many possible boards that hit its range, J 9 suited is a great low risk / high reward hand.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Club-J-Diamond.jpg" alt="Ace of Clubs and Jack of Diamonds" /></td>
+<td>27 / 169</td>
+<td>13.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The weakest ace face combination, Ace Jack off suit possess all of the same weaknesses as Ace Queen – and it can&#8217;t even beat that.</p>
+<p>It&#8217;s still a big ace of course, so you&#8217;ll be happy to open pots from middle position or call a single raise to see a flop. But as experienced players can attest, when playing A J off suit the best case scenario is finding a jack on board – not an ace.</p>
+<p>People tend to play past the pre flop stage with their big aces A Q or A K, so on any ace high board, you&#8217;re likely to be dominated by an opponent who was already willing to commit calling or raising chips.</p>
+<p>But when the board comes jack high, you&#8217;ll be holding top pair / top kicker, which usually rates to win over random opponent hands.</p>
+<p>In either case, you should exercise caution when it comes to risking major portions of your stack on A J off suit – pre flop or post flop. In a pre flop confrontation, A J is flipping at best and dominated at worse, and against snug opponents acting aggressively after the flop, the likelihood of facing an ace with a better kicker or an overpair to jacks is high.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Club-5-Club.jpg" alt="Ace of Clubs and Five of Clubs" /></td>
+<td>28 / 169</td>
+<td>13.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Despite the warnings against aces with low kickers, many showdowns will see Ace Five suited tabled.</p>
+<p>Players like the added equity provided by the wheel straight A 2 3 4 5 possibility, while any ace high suited hand can make the nuts with three more suits on board.</p>
+<p>Of course, the most likely scenario with a hand like A 5 suited is pairing just your ace alone, which can cause trouble as the pot escalates due to the oft cited kicker trouble.</p>
+<p>Thus, A 5 suited should be considered a boom or bust hand, or one that works only when you hit a straights or a flush rather than one pair.</p>
+<p>From a positional standpoint, A 5 suited is a decent limping hand from middle position, as you&#8217;ll want to be in a multiway pot should the straight or flush come in. From late position, you should probably be folding A 5 suited rather than calling raises, but opening an unraised pot is considered standard.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/7-Diamond-7-Spade.jpg" alt="Seven of Diamonds and Seven of Spades" /></td>
+<td>29 / 169</td>
+<td>13.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Maybe it&#8217;s the connotations of lucky 7s within the casino environment, but for whatever reason, poker players tend to believe that pocket sevens spike sets on the flop more than other pocket pairs.</p>
+<p>Mathematics and probability tell us that this isn&#8217;t true, but 7 7 plays just like any other mid range pocket pair by offering a perfect set mining opportunity. If you can see a flop for a relatively cheap price, scoring that third seven for a set can generate major payouts on big pots.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Club-7-Club.jpg" alt="Ace of Clubs and Seven of Clubs" /></td>
+<td>30 / 169</td>
+<td>13.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>As your basic middle of the road suited ace, a hand like Ace Seven suited really has one prime directive above all else: make the nut flush.</p>
+<p>The only realistic backup plan is a seven high flop which gives you top pair / top kicker, because an ace high board will always leave you doubting the weak kicker.</p>
+<p>So the plan with A 7 suited in multiway pots should generally be to find a four card flush draw – and pay the correct price to chase it.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Club-J-Spade.jpg" alt="King of Clubs and Jack of Spades" /></td>
+<td>31 / 169</td>
+<td>13.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>One of the more overplayed hands in holdem, the King Jack off suit happens to be a sight for sore eyes with two face cards after long runs of fruitless starting hands.</p>
+<p>But all things considered, the hand really looks much better than it really is. Nonetheless, opponents will be showing down K J off suit in several scenarios, and you&#8217;ll find yourself playing it here and there too.</p>
+<p>K J off suit plays much better as a cheap hand in multiway pots, perhaps limping in late after a few limps, calling out of the blinds, or checking your option. On the flop, the objective is to find a face card or two, while Q 10 X offers the classic open ended straight draw in which an ace or a nine gives you the nuts.</p>
+<p>The big problem with this hand, however, occurs when you hit one pair, because both you jacks and kings will suffer from kicker trouble against solid players who have called or raised pre flop.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Club-4-Club.jpg" alt="Ace of Clubs and Four of Clubs" /></td>
+<td>32 / 169</td>
+<td>13.20%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Heart-4-Heart.jpg" alt="Ace of Hearts and Four of Hearts" /></td>
+<td>33 / 169</td>
+<td>13.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>These low suited aces are essentially the same hand, offering nut flush possibilities supplemented by a single wheel straight board for each.</p>
+<p>Players tend to speculate with Ace Four and Ace Three suited because they can hit that extra straight in addition to the nut flush, and even aces with low kickers can win their fair of showdowns after pairing up.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Heart-6-Heart.jpg" alt="Ace of Hearts and Six of Hearts" /></td>
+<td>34 / 169</td>
+<td>13%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The same hand as the two above, but without the added equity of the wheel straight.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Heart-J-Spade.jpg" alt="Queen of Hearts and Jack of Spades" /></td>
+<td>35 / 169</td>
+<td>12.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Players from amateur to pro love speculating with the Queen Jack off suit.</p>
+<p>That&#8217;s because the Q J can make the nut straight on a variety of boards – 10 K A, K 10 9, and 8 9 10 – each of which is likely to induce action.</p>
+<p>These three hands are the target when playing Q J off suit, and while two pair or trips will do in a pinch, making one pair with this hand can spell disaster if you become too attached.</p>
+<p>Even though it&#8217;s hard to lay down so much possibility, playing Q J off suit from early position isn&#8217;t advisable, but limping or opening from early position, and opening or calling from late position, are both good ways to reach the flop and see what develops.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/6-Spade-6-Diamond.jpg" alt="Six of Spades and Six of Diamonds" /></td>
+<td>36 / 169</td>
+<td>12.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A basic small pocket pair suitable for set mining in most cash game scenarios, or flipping either with or against a short stack in tournament play, pocket sixes make the Devil&#8217;s hand when they hit a set 6 6 6.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Spade-8-Club.jpg" alt="King of Spades and Eight of Clubs" /></td>
+<td>37 / 169</td>
+<td>12.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>This hand only ranks so highly on the list because it&#8217;s king high at showdown, so it can beat nine random hands from time to time.</p>
+<p>In reality, you&#8217;ll seldom be caught playing King Eight, suited or otherwise. Maybe as a blind stealing vehicle or when defending your blind against a light opener, but in most cases, K 8 suited just isn&#8217;t worth calling or raising with the intention of playing through all five streets.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/10-Spade-8-Spade.jpg" alt="Ten of Spades and Eight of Spades" /></td>
+<td>38 / 169</td>
+<td>12.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A surprisingly playable hand, Ten Eight suited can fit nicely with several different boards, as 7 9 X, 9 J X, 6 7 X, 6 9 X, 7 J X, and 9 Q X all create either open ended or gutshot straight draws.</p>
+<p>Throw in the flush possibilities, and experienced players have no problem putting a few chips into the pot to speculate with 10 8 suited.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Heart-2-Heart.jpg" alt="Ace of Hearts and Two of Hearts" /></td>
+<td>39 / 169</td>
+<td>12.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Novices players like Ace Deuce suited because they enjoy the concept of having flush, wheel straight, and even straight flush possibilities before the flop.</p>
+<p>And yes, a few baby card boards with a suit or two in your favor will create the right conditions for a sneakily good hand.</p>
+<p>But the ace high component can become overvalued, especially when the board brings just an ace and no deuce. Even with the lowest kicker in the world, many pots are played to showdown anyway holding A 2 suited in the hole – usually when a player flops both an ace or a deuce and a flush draw.</p>
+<p>If you make two pair, trips, or a flush in these spots, more power and probably the pot to you. But when you miss, the fishing expedition you just embarked on usually costs a decent chunk of chips.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/8-Diamond-9-Diamond.jpg" alt="Eight of Diamonds and Nine of Diamonds" /></td>
+<td>40 / 169</td>
+<td>12.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Club-8-Club.jpg" alt="Jack of Clubs and Eight of Clubs" /></td>
+<td>41 / 169</td>
+<td>12.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Close cousins to Ten Eight suited, both Eight Nine and Jack Eight suited offer a wide range of post flop playability.</p>
+<p>Flush draws are always nice, but pretty much any middle card heavy board will offer one form of straight draw or another.</p>
+<p>The optimal scenario with 8 9 and J 8 suited is to land both draws at once, giving you at least 17 outs and a huge chance to take down basically any other opponent hand from pocket aces to top set.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Heart-10-Spade.jpg" alt="Ace of Hearts and Ten of Spades" /></td>
+<td>42 / 169</td>
+<td>12.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The last of the Broadway aces A 10, A J, A Q, A K, Ace Ten off suit has a way of appearing a little better than it really is, simply because it&#8217;s still a big ace in technical terms.</p>
+<p>The off suit variety should be played cautiously on ace high boards, and while you might get away with pushing the action initially, getting played back at is usually a sign of trouble.</p>
+<p>After all, consider a board like A 9 8. This top pair situation seems reasonable for a wager, and it is, but if you get raised the following aces beat or chop with you at the moment: A A, A K, A Q, A J, A 10, A 9, A 8.</p>
+<p>Sure, you still beat A 7, A 6, A 5, A 4, A 3, and A 2, but opponents tend to play the first group of six a lot more than the second group, illustrating why A 10 off suit is seldom the best hand on an ace high board.</p>
+<p>Ten high boards are a different story, however, because players do tend to stick around with K 10, Q 10, J 10, and 9 10, all of which you&#8217;ll be dominating with your ace kicker.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Diamond-8-Diamond.jpg" alt="Queen of Diamonds and Eight of Diamonds" /></td>
+<td>43 / 169</td>
+<td>12.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Spade-7-Club.jpg" alt="King of Spades and Seven of Clubs" /></td>
+<td>44 / 169</td>
+<td>12.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The two suited face cards with middling kickers shown above are essentially the same hand, and they&#8217;ll be foldable for the most part.</p>
+<p>The Queen Eight suited does offer straight potential on 9 10 J boards, but those usually see K Q show up for the nut straight to beat the dummy end.</p>
+<p>If you&#8217;re already in the blinds and somebody raises the minimum from late position, these hands actually make decent three betting options though. That&#8217;s because you&#8217;ll have a little to work with in terms of high card pairs and flush outs when you happen to get called.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Spade-10-Heart.jpg" alt="King of Spades and Ten of Hearts" /></td>
+<td>45 / 169</td>
+<td>12.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The same basic hand as King Ten suited without the few percentage points of added equity.</p>
+<p>This hand has plenty of potential when the board comes Q J X, but making single pair hands is usually bad news with K 10 off suit.</p>
+<p>Avoid getting into the pot from early position with this marginal hand, and instead focus on punishing the blinds from late position knowing you&#8217;ll have a decent level of post flop playability.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/5-Heart-5-Club.jpg" alt="Five of Hearts and Five of Clubs" /></td>
+<td>46 / 169</td>
+<td>12.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Your basic baby pocket pair, pocket fives is a set miner&#8217;s dream, because a 5 on board is usually considered a blank by opponent&#8217;s holding big cards.</p>
+<p>Limping and calling from early or middle position, and opening or calling from late position, is generally the correct approach with 5 5 in the hole.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Heart-10-Spade.jpg" alt="Jack of Hearts and Ten of Spades" /></td>
+<td>47 / 169</td>
+<td>12.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>See the entry for Jack Ten suited and simply remove the element of suited cards.</p>
+<p>This hand plays tremendously on several different boards, ranging from 7 8 X to A K X and everything in between, so you&#8217;ll usually have at least a gutshot draw after the flop. Along with its propensity for making nut hands, J 10 off suit is usually worth seeing the flop whenever possible from most positions.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/7-Spade-8-Spade.jpg" alt="Seven of Spades and Eight of Spades" /></td>
+<td>48 / 169</td>
+<td>12%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The classic suited connector favored by players like Daniel Negreanu, the Seven Eight suited offers tremendous upside and relatively little risk.</p>
+<p>The point of a purely speculative hand like 7 8 suited is to see the flop for cheap, preferably in a multiway pot, and find some sort of draw to work with. Fortunately, 7 8 suited connects with many boards, so in addition to flush draws, you&#8217;ll be looking for 4 5 X, 5 6 X, 6 9 X, 9 10 X and various combinations therein.</p>
+<p>As a great blind defense hand, or even when stealing, 7 8 suited offers an inherent backup plan when any middle card heavy board happens to hit.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Heart-10-Heart.jpg" alt="Queen of Hearts and Ten of Hearts" /></td>
+<td>49 / 169</td>
+<td>12%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A hand like Queen Ten off suit is all in the eye of the beholder, and that vision can change dramatically based on how you&#8217;ve been running.</p>
+<p>During a long barren stretch of bad hands, boredom can turn Q 10 off suit into a quite lovely hand to see. But when you&#8217;re running well and picking up actual premiums, the Q 10 can easily be ditched in favor of something stronger.</p>
+<p>So you&#8217;ll find yourself playing Q 10 from time to time, usually from late position when the action has been tame in front, and the hand can actually hit a few boards well – namely the 9 J X and J K X open ended straight draws. Both will produce the nut straight if you hit either side of the draw, making Q 10 a tried and true nut hand when it finds the right board.</p>
+<p>You&#8217;ll also face plenty of boards like K J 10 or Q J 9 which offer both a pair and a straight draw, and as these are action inducing arrangements, the Q 10 can often be found tangling in big pots.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/4-Heart-4-Club.jpg" alt="Four of Hearts and Four of Clubs" /></td>
+<td>50 / 169</td>
+<td>11.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/2-Spade-2-Club.jpg" alt="Two of Spades and Two of Clubs" /></td>
+<td>51 / 169</td>
+<td>11.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/3-Diamond-3-Heart.jpg" alt="Three of Diamonds and Three of Hearts" /></td>
+<td>52 / 169</td>
+<td>11.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The three baby pocket pairs above can all be played in essentially the same fashion. For the most part, you&#8217;ll be paying as cheap a price as you can get to see a flop, and the only viable path forward will be paved by flopping a set.</p>
+<p>Of course, you&#8217;ll be shoving or calling with low pocket pairs like 4 4, 3 3, and 2 2 in certain scenarios, such as with a short stack against just a few opponents, or when a short stack has moved in and you are last to act.</p>
+<p>But aside from these exceptions, the lowest pocket pairs in holdem are best played as set miners.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Club-6-Club.jpg" alt="King of Clubs and 6 of Clubs" /></td>
+<td>53 / 169</td>
+<td>11.80%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/7-Heart-9-Heart.jpg" alt="Seven of Hearts and Nine of Hearts" /></td>
+<td>54 / 169</td>
+<td>11.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Some players swear by the concept of one gap hands 7 – 9, 8 – 10, etc. over direct connectors 7 – 8, 9 – 10, etc. because they make more deceptive straights.</p>
+<p>So a hand like Seven Nine suited is a favorite holding for that crowd, as it tends to land straights in a such a way that opponents don&#8217;t always notice.</p>
+<p>As an example, consider a flop like 5 8 J where one of the cards is in your suit. When you&#8217;re holding the 7 9 suited, you now hold an extremely well disguised double belly buster straight draw along with a backdoor flush draw to boot. That is, any 6 or any 10 will complete respective gutshot straight draws, while any diamond will increase your out count from eight to 17 heading to the river.</p>
+<p>The 7 9 suited should be approached as a low risk, high reward proposition, so unless you connect with the board to gain 8 outs or more, laying it down in the face of post flop aggression is a prudent choice.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Spade-5-Club.jpg" alt="King of Spades and Five of Clubs" /></td>
+<td>55 / 169</td>
+<td>11.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/6-Diamond-7-Diamond.jpg" alt="Six of Diamonds and Seven of Diamonds" /></td>
+<td>56 / 169</td>
+<td>11.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A mini me clone of Seven Eight suited, the Six Seven suited plays in almost identical fashion: connecting with baby and middle card boards to create a wealth of straight, flush, and combo draws.</p>
+<p>Try to enter the pot as cheaply as possible with the 6 7 suited, before taking advantage of boards ranging from 4 5 X to 8 9 X.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/10-Heart-7-Heart.jpg" alt="Ten of Hearts and Seven of Hearts" /></td>
+<td>57 / 169</td>
+<td>11.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>If suited connectors are the standard, and one gap hands have a loyal following, two gappers like Ten Seven suited are the black sheep of the holdem hand family.</p>
+<p>Technically speaking, a hand like 10 7 suited just isn&#8217;t all that good, especially when wielded by an unsophisticated player. That&#8217;s because these players just won&#8217;t know how to extract value from boards that come seven  or 10 high, or they&#8217;ll invest too many chips in these very same spots.</p>
+<p>But in the hands of a thinking, skilled player who knows exactly how to assess concepts like board texture and opponent ranges, 10 7 suited plays quite well on raggedy, seemingly unconnected boards like 6 8 X, 8 J X, 9 J X, 10 7 X, and the like.</p>
+<p>As always with a suited hand, you should always remain cognizant of backdoor flush outs, but don&#8217;t become too attached to the notion of turning a three card flush draw into a real hand. Simply keep it in the back of your mind that one of your suit on the flop, along with a pair or a decent straight draw, can become a huge drawing hand on the turn if a second suited card hits the board.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Spade-4-Club.jpg" alt="King of Spades and Four of Clubs" /></td>
+<td>58 / 169</td>
+<td>11.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Spade-2-Spade.jpg" alt="King of Spades and Two of Spades" /></td>
+<td>59 / 169</td>
+<td>11.30%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Heart-3-Heart.jpg" alt="King of Hearts and Three of Hearts" /></td>
+<td>60 / 169</td>
+<td>11.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The five suited king high hands shown above K 6, K 5, K 4, K 3, and K 2 play in basically the same way.</p>
+<p>If the game is passive and you can see flops for a limp or an open against one or two players, suited king rags hold a certain level of playability. After all, if your opponent didn&#8217;t show any aggression at all pre flop, either by opening or three betting your open, you can usually eliminate aces especially suited aces from their range.</p>
+<p>So a king high flush draw in those particular spots tends to be the best draw, but conversely, when you flop a king here, you&#8217;ll always be outkicked by an opponent who played K Q, K J, K 10, or K 9 cautiously.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Heart-7-Heart.jpg" alt="Queen of Hearts and Seven of Hearts" /></td>
+<td>61 / 169</td>
+<td>11.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>See the entry for Queen Seven off suit, the famous computer hand, and simply add in a few percentage points of equity for having suited cards.</p>
+<p>What you have then in Q 7 suited is the definition of a middling, marginal hand – one which will only really be played out of positional necessity.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/6-Spade-8-Spade.jpg" alt="Six of Spades and Eight of Spades" /></td>
+<td>62 / 169</td>
+<td>11.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Your standard suited one gapper comprised of middle cards, the Six Eight suited is a nice hand to splash around with in a cheap pot against a few opponents.</p>
+<p>Avoid calling raises with 6 8 suited except when defending a blind, and instead focus on over limping or opening yourself from late position.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/5-Heart-6-Heart.jpg" alt="Five of Hearts and Six of Hearts" /></td>
+<td>63 / 169</td>
+<td>11.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Your standard baby card suited connector, the Five Six suited has probably been shown down against flabbergasted amateurs more than any other hand.</p>
+<p>The glory days of televised poker games involving Negreanu, Gus Hansen, and Tom Dwan – all players who love to mix it up with any two cards – informed the poker public about the sneaky strength of suited connectors. So today, you&#8217;ll see opponents playing the 5 6 suited in many situations, and you&#8217;ll be backing the hand yourself when you&#8217;re playing a balanced range.</p>
+<p>One big problem to avoid with 5 6 suited is the classic 7 8 X board. Here, you&#8217;ll ostensibly be drawing to a 4 or a 9 to make a straight, but in reality, that 9 should be considered a dead out. Think about it– if that 9 comes to create a 7 8 X 9 board, your 5 6 straight is actually the third best straight out there. Both 6 10 and the much more likely J 10 have you drawing dead, while any face  or ace 10 type hand has seven outs to run you down going to the river.</p>
+<p>Instead, the best draw you can hope to find with 5 6 suited comes on the 3 4 X board, preferably with one or two of your suits mixed in. Here, either a deuce or a 7 will complete your straight, and in each case you&#8217;ll have the nuts.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Heart-7-Heart.jpg" alt="Jack of Hearts and Seven of Hearts" /></td>
+<td>64 / 169</td>
+<td>11.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>If suited two gappers stretch the boundaries of playability, suited three gappers like Jack Seven suited are just no good.</p>
+<p>Sure, it&#8217;s a nice creative hand to take a flop with when the circumstances warrant, perhaps checking your big blind option or opening from the small in a blind on blind confrontation. But the J 7 suited appears to be more playable post flop than it truly is, because the three gap spread can only create gutshot straight draws and not open enders.</p>
+<p>Boards like 8 10 X and 9 10 X may look like they connect with J 7 quite nicely, but take a closer look. If you catch a 9 on the first board for 8 10 X 9, you have the second best straight to Q J but you are beating the 6 7 dummy straight. And if you catch an 8 on the second board, the 9 10 X 8 creates the exact same dilemma.</p>
+<p>For this reason, J 7 suited usually winds up being tabled with excitement, followed by a wry grin when the nut straight is revealed.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Club-5-Club.jpg" alt="Four of Clubs and Five of Clubs" /></td>
+<td>65 / 169</td>
+<td>10.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Diamond-6-Diamond.jpg" alt="Queen of Diamonds and Six of Diamonds" /></td>
+<td>66 / 169</td>
+<td>10.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/5-Heart-7-Heart.jpg" alt="Five of Hearts and Seven of Hearts" /></td>
+<td>67 / 169</td>
+<td>10.70%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/6-Spade-9-Spade.jpg" alt="Six of Spades and Nine of Spades" /></td>
+<td>68 / 169</td>
+<td>10.70%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Diamond-5-Diamond.jpg" alt="Queen of Spades and Five of Diamonds" /></td>
+<td>69 / 169</td>
+<td>10.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Spade-6-Spade.jpg" alt="Four of Spades and Six of Spades" /></td>
+<td>70 / 169</td>
+<td>10.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The group of four suited small card hands shown above 4 5, 5 7, 6 9, 4 6 all offer the same basic level of playability.</p>
+<p>You&#8217;ll be folding these from early position more often than not, and trying to see a cheap flop in late position when you&#8217;re in the mood.</p>
+<p>Alternatively, solid and/or tight players will see their way to laying these four hands down without a second thought, recognizing that suitedness doesn&#8217;t change all that much when playing low one  and two gappers.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Club-4-Club.jpg" alt="Queen of Clubs and Four of Clubs" /></td>
+<td>71 / 169</td>
+<td>10.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Heart-3-Heart.jpg" alt="Queen of Hearts and Three of Hearts" /></td>
+<td>72 / 169</td>
+<td>10.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Spade-9-Club.jpg" alt="Ten of Spades and Nine of Clubs" /></td>
+<td>73 / 169</td>
+<td>10.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The fact that Ten Nine off suit is the first unsuited hand on the list since Queen Ten off suit in 49th position speaks to the hand&#8217;s drawing power – even without a flush to fall back on.</p>
+<p>The 10 9 off suit is a classic speculation hand, as you can safely hit the eject button and fold on bad boards, while continuing to draw on a wide range of board textures. Boards like 6 7 X, 7 J X, 8 Q X, and Q K X all offer gutshot draws, and in the first three cases, you&#8217;ll hit the nuts when you fill the straight a jack on the Q K X board leaves you vulnerable to A 10 for Broadway.</p>
+<p>Even better, boards reading 7 8 X, 8 J X, and J Q X all offer open enders, and once again you&#8217;ll hit the nuts in all but one scenario a king coming on the J Q X board leaves you vulnerable to A 10 for Broadway.</p>
+<p>So 10 9 off suit is the perfect hand to see a flop with and play things from there, because you&#8217;ll usually have some sort of draw to fall back on, and when those draws deliver, the result is almost always the nut straight.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/10-Heart-6-Heart.jpg" alt="Ten of Hearts and Six of Hearts" /></td>
+<td>74 / 169</td>
+<td>10.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Just a weaker suited three gapper than Jack Seven suited, the Ten Six suited is bound by the same limitations.</p>
+<p>You&#8217;ll only make gutshot straight draws with the 10 6 in hand, with boards like 7 8 X or 8 9 X offering a glimmer of hope. But in each case, your gin card will actually create the nut straight for the far more playable J 10, so you&#8217;ll be second best on a good deal of showdowns.</p>
+<p>Hands like 10 6 suited are the most likely source of the bad player&#8217;s calling card, as they tell crestfallen opponents but I only played it because it was suited.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Heart-2-Heart.jpg" alt="Queen of Hearts and Two of Hearts" /></td>
+<td>75 / 169</td>
+<td>10.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The five suited queen high hands shown above Q 6, Q 5, Q 4, Q 3, and Q 2 can be viewed in the same light across the board.</p>
+<p>These are garbage hands, plain and simple, only to be played with position and stack size factors dictate pure aggression. But actually playing a suited queen rag hand like these with the intention of seeing board cards and landing hands is futile, as your queen high flushes which will rarely come in anyway are likely to be beaten by king and ace high hands. Also, one pair of queens with a deuce kicker is a sure loser, while one pair of deuces won&#8217;t beat much at showdown without further improvement.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/A-Spade-9-Spade.jpg" alt="Ace of Spades and Nine of Spades" /></td>
+<td>76 / 169</td>
+<td>10.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The first midrange ace high hand, Ace Nine off suit straddles the line between playable and unplayable. From early and middle position, you&#8217;ll be well served to simply ditch the hand, but in certain spots from late position, opening and punishing blind hands with an ace and a decent kicker will be the right play.</p>
+<p>After all, if you can get into a pot against one opponent who hasn&#8217;t show all that much aggression, and an ace does fly out, the A 9 actually outkicks more aces A 2, A 3, A 4, A 5, A 6, A 7, and A 8 than it doesn&#8217;t A 10, A J, A Q, A K.</p>
+<p>But when an opponent has shown any level of aggression or interest after seeing an ace hit the board, you must realize that those weaker aces are played far less often than the ace face combinations.</p>
+<p>All in all, Ace Nine off suit is a good candidate for that hand you&#8217;d like to play, but fold instead while patting yourself on the back.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Heart-5-Heart.jpg" alt="Three of Hearts and Five of Spades" /></td>
+<td>77 / 169</td>
+<td>10.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Experienced players have a soft spot for Three Five suited specifically because at some point or another in their poker careers, they&#8217;ve stacked an opponent in a particularly cruel situation using the ragged one gapper.</p>
+<p>The optimal scenario when playing 3 5 suited is to find a flop reading 2 4 X, because now your open ended straight draw comes with a powerful caveat. By slow playing here, you can let an opponent holding something like A J, A Q, or A K catch up by spiking an ace on the turn.</p>
+<p>When they do, you&#8217;ll have one of the most well disguised straights in the game with the wheel A 2 3 4 5, while your opponent will be licking their chops after pairing their ace on a particularly non-threatening board.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/5-Spade-8-Spade.jpg" alt="Five of Spades and Eight of Spades" /></td>
+<td>78 / 169</td>
+<td>10.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A basic, barebones suited two gapper, the Five Eight suited certainly has its moments, but not many.</p>
+<p>You might be playing this hand out of the blinds, or as a blind steal, and in rare occasions you&#8217;ll limp it from middle position along with a few others in hopes of seeing a cheap flop.</p>
+<p>Most middle card board will offer at least a gutshot draw, so if you can find a couple of suited cards too, the 5 8 suited can create quite a few combo draws.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Heart-6-Heart.jpg" alt="Jack of Hearts and Six of Hearts" /></td>
+<td>79 / 169</td>
+<td>10.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Garbage by another name is still garbage, and Jack Six suited or otherwise is just that.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Heart-9-Spade.jpg" alt="Jack of Hearts and Nine of Spades" /></td>
+<td>80 / 169</td>
+<td>10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Players who love chasing open ended straight draws have an affinity for hands like Jack Nine off suit.</p>
+<p>Boards like 8 10 X and 10 Q X hit the J 9 perfectly, and when you find a straight on either side of these draws, you&#8217;ll always have the nuts. That 10 Q X board is especially nice, because the high cards generally connect with opponent ranges, ensuring a nice payout when your straight comes in.</p>
+<p>One way that the J 9 can be made vulnerable, however, is when it makes two pair on the J 9 X board. In this case, you&#8217;ll love the look of your hand, but any seven, eight, 10, queen, or king that comes out can very well complete a straight for players holding hands like 8 10, Q 10, K 10, or K Q.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Diamond-9-Spade.jpg" alt="King of Diamonds and Nine of Spades" /></td>
+<td>81 / 169</td>
+<td>9.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Not a very good hand at all, King Nine off suit falls right outside of the usual face 10 range of playable big card hands.</p>
+<p>You&#8217;ll be laying the K 9 off suit down more often than not, from most positions, simply because it doesn&#8217;t do much for you in a post flop sense.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Heart-5-Diamond.jpg" alt="Jack of Hearts and Five of Diamonds" /></td>
+<td>82 / 169</td>
+<td>9.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The only reason people play Jack Five suited is to crack tired Jackson Five jokes when they somehow luck their way into dragging the pot.</p>
+<p>Aside from that angle, this is just Jack Six suited repeat: garbage with a weaker kicker.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Club-9-Spade.jpg" alt="Queen of Hearts and Nine of Spades" /></td>
+<td>83 / 169</td>
+<td>9.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>See the entry for Queen Nine suited and subtract the extra equity provided by suited cards.</p>
+<p>The J 10 X flop is nice to see, and hitting an eight here brings the nuts, but a king in the same spot can create a classic second best scenario to A Q.</p>
+<p>Q 9 off suit is the type of hand you&#8217;ll raise with as a blind steal, knowing that you&#8217;re not actually looking to see a flop.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/3-Heart-4-Heart.jpg" alt="Three of Hearts and Four of Hearts" /></td>
+<td>84 / 169</td>
+<td>9.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Although the Three Four suited falls near the lower end of the hand ranking spectrum, it holds one special point of appeal for longtime holdem players: the wheel straight.</p>
+<p>In the perfect scenario – which admittedly will not occur all that often – you&#8217;ll find a 2 5 X flop when holding 3 4.</p>
+<p>When this occurs, a 6 will obviously complete your open ended straight draw – giving you the nuts in fact – but it&#8217;s not what you really want. On a 2 5 X 6 board, the chances of an opponent also connecting with the baby cards aren&#8217;t all that high, so you&#8217;ll seldom win a big pot with the six high straight</p>
+<p>But when the turn or river brings an ace instead, completing you&#8217;re A 2 3 4 5 wheel straight, the likelihood of an opponent coming along is much higher, because they&#8217;ll often have top pair or better with an ace in the hole.</p>
+<p>Nothing beats the look on a player&#8217;s face when they turn over big slick for two pair on an K 2 5 A X board, only to see you table the nut straight with the lowly 3 4.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/4-Spade-7-Spade.jpg" alt="Four of Spades and Seven of Spades" /></td>
+<td>85 / 169</td>
+<td>9.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>In casino cash games where many players see the flop on the cheap, a hand like Four Seven suited can offer some value as a disguised drawing hand.</p>
+<p>But for the most part, in tournaments and more aggressive cash games, you&#8217;ll be folding the 4 7 suited in the face of any raise. When you can get to the flop inexpensively though, baby card boards like 5 6 X do offer a little wiggle room in terms of drawing.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Club-4-Club.jpg" alt="Jack of Clubs and Four of Clubs" /></td>
+<td>86 / 169</td>
+<td>9.70%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Heart-3-Heart.jpg" alt="Jack of Hearts and Three of Hearts" /></td>
+<td>87 / 169</td>
+<td>9.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/5-Club-9-Club.jpg" alt="Five of Clubs and Nine of Clubs" /></td>
+<td>88 / 169</td>
+<td>9.60%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Aside from being known as the Dolly Parton hand, because she works from nine to five, the Five Nine suited doesn&#8217;t have much else going for it.</p>
+<p>You&#8217;ll need to catch a particularly fortunate board to proceed correctly, and even the 6 7 8 straight board leaves you especially vulnerable to the 9 10 nut straight. All in all, 5 9 suited will be laid down in almost all spots.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/J-Heart-2-Heart.jpg" alt="Jack of Hearts and Two of Hearts" /></td>
+<td>89 / 169</td>
+<td>9.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The three suited jack rag hands shown above J 4, J 3, and J 2 epitomize the idea of auto folds in holdem.</p>
+<p>You just can&#8217;t do anything with these hands except run a pure bluff, or catch a purely lucky flop like J J X, 2 2 X, or J J 4.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/3-Club-6-Club.jpg" alt="Three of Clubs and Six of Clubs" /></td>
+<td>90 / 169</td>
+<td>9.50%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Heart-8-Spade.jpg" alt="Ace of Hearts and Eight of Spades" /></td>
+<td>91 / 169</td>
+<td>9.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A basic ace rag hand, Ace Eight off suit spells nothing but trouble on ace high, or eight high, boards.</p>
+<p>The only real application for the A 8 off suit is to push around short stacks with a pre flop shove, or three betting particularly light openers. As a post flop hand, however, A 8 is junk.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Club-5-Club.jpg" alt="Two of Clubs and Five of Clubs" /></td>
+<td>92 / 169</td>
+<td>9.30%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Diamond-5-Diamond.jpg" alt="Ten of Diamonds and Five of Diamonds" /></td>
+<td>93 / 169</td>
+<td>9.20%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Heart-8-Heart.jpg" alt="Four of Hearts and Eight of Hearts" /></td>
+<td>94 / 169</td>
+<td>9.10%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/10-Spade-4-Spade.jpg" alt="Ten of Spades and Four of Spades" /></td>
+<td>95 / 169</td>
+<td>9.10%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Diamond-3-Diamond.jpg" alt="Ten of Diamonds and Three of Diamonds" /></td>
+<td>96 / 169</td>
+<td>9.10%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Spade-4-Spade.jpg" alt="Two of Spades and Four of Spades" /></td>
+<td>97 / 169</td>
+<td>9%</td>
+</tr>
+</tbody>
+</table></div>
+<p>This group of seven suited hands shown above 3 6, 2 5, 10 5, 4 8, 10 4, 10 3, and 2 4 are all marginal, non playable hands in most cases.</p>
+<p>For the 10 high hands here especially, you&#8217;ll really have no reason to see flops with them outside of the big blind option or a blind steal gone wrong.</p>
+<p>As for the 2 4, 2 5, 3 6, and 4 8 suited, these baby card gappers can sometimes be played out of the blinds in limped or single raised pots, but that should be up to your discretion based on playing style.</p>
+<p>For the most part, none of these six hands warrants putting any more chips into the pot than you absolutely have to, and even then, you&#8217;ll whiff on far more flops than you connect with.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Heart-2-Heart.jpg" alt="Ten of Hearts and Two of Hearts" /></td>
+<td>98 / 169</td>
+<td>9%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Every poker player knows the Ten Deuce suited by one name, and one name alone: the Brunson.</p>
+<p>Named after original poker legend Doyle Brunson, the 10 2 suited was used by Texas Dolly to secure his 1976 World Series of Poker Main Event championship.</p>
+<p>Brunson had built a big chip lead over his heads up opponent Jesse Alto, so when he found 10 2 of spades in the hole, he called Alto&#8217;s open and took a flop – hoping to finish his man off and secure poker&#8217;s world championship for the first time.</p>
+<p>The flop came down Ah Js 10h and Brunson went for the bully tactic, shoving all in to put the short stacked Alto to the test on an ace high Broadway board. Alto snap called for his Main Event life, tabling Ac Jh for top two pair to put a stranglehold on the hand.</p>
+<p>Brunson could only shake his head and await his fate, knowing he was dead to the deck&#8217;s two remaining 10s. The turn delivered a deuce of clubs, giving Brunson an inferior two pair, but he could now win it all with a 10 or a deuce on the river.</p>
+<p>River: 10 of diamonds</p>
+<p>With that, Brunson sealed the deal and won the 1976 Main Event with his full house, along with the entire $220,000 first prize payout. And he used the nondescript 10 2 suited to do so.</p>
+<p>One year later, Brunson returned to Downtown Las Vegas to defend his title, and once again the Godfather of Poker found himself heads up for all the money.</p>
+<p>This time he was up against Gary Bones Berland for the title and $340,000 in prize money, and for the second straight year, Brunson was dealt the 10 2 while holding the chip lead. This time the Brunson wasn&#8217;t suited, but it mattered little, and he gladly took a flop to see the 10 8 5 rain down.</p>
+<p>Berland slow played his hand 8 5 off suit for two pair, and Brunson saw a deuce drop in on the turn. He bet big and Berland shoved, only to be snap called by Brunson and his now famous 10 2. To cap things off in fitting fashion, the river delivered another 10 to the board – giving Brunson the exact same 10s over deuces full house he had won the Main Event with the year before.</p>
+<p>From then on, forever and always in card rooms around the world, the 10 2 has been known as the Brunson.</p>
+<p>Because of this story&#8217;s significance in poker lore, players will gladly take a flier on 10 2, either in homage to the man himself, or just for the laughs they&#8217;ll get when showing the hand down.</p>
+<p>Even Brunson himself couldn&#8217;t resist, and when he found himself heads up for yet another WSOP gold bracelet in 2005, once more in ownership of a big chip lead, he shoved all in holding 10 3 off suit. It wasn&#8217;t quite the original Brunson he rode to glory three decades prior, but it still worked its magic, taking down Minh Ly&#8217;s K Q by pairing the three to send Dolly his 10th bracelet in a long and storied career.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/8-Spade-9-Spade.jpg" alt="Eight of Spades and Nine of Spades" /></td>
+<td>99 / 169</td>
+<td>9%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A surprisingly playable hand in certain situations, the Eight Nine off suit fits nicely with many action inducing boards.</p>
+<p>When you see something like 5 6 X, 6 10 X, or 7 J X you&#8217;ll find a gutshot draw – and each one will complete the nuts when you land it.</p>
+<p>On boards like 6 7 X, 7 10 X, and 10 J X you&#8217;ll add open ended straight possibilities – and once more, you&#8217;ll earn the nuts by hitting any card except for the queen on 10 J X, which will be vulnerable to the A K for Broadway.</p>
+<p>With so many nut hands to make as opposed to second bests, the 8 9 off suit can be played profitably by disciplined players who now their way around pot odds based decisions.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Diamond-8-Spade.jpg" alt="Ten of Diamonds and Eight of Spades" /></td>
+<td>100 / 169</td>
+<td>8.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Your standard junky hand that somehow manages to hit its fair share of boards. As mentioned in the Ten Eight suited entry above, the hand fits nicely with boards like as 7 9 X, 9 J X, 6 7 X, 6 9 X, 7 J X, and 9 Q X, so in most cases you&#8217;ll have something to fall back on.</p>
+<p>You lack the benefit of suited cards with 10 8 off suit though, so adjust accordingly, and try to sneak up on opponents by cashing in a disguised straight draw.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/A-Diamond-5-Club.jpg" alt="Ace of Diamonds and Five of Clubs" /></td>
+<td>96 / 169</td>
+<td>8.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/A-Club-7-Diamond.jpg" alt="Ace of Clubs and Seven of Diamonds" /></td>
+<td>97 / 169</td>
+<td>8.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>This pair of ace rag hands look the same, and they&#8217;re ranked right next to one another, but Ace Five off suit is played far more often than Ace Seven off suit.</p>
+<p>That&#8217;s because A 5 can make a straight on the 2 3 4 board, while A 7 has no three card straights available.</p>
+<p>As you can see by the numbers, this only creates an additional 0.10 percent of overall equity against nine random hands. Even so, most players fall for the fallacy that A 5 is a much better hand than A 7, so you&#8217;ll see the former shown down with far more frequency than the latter.</p>
+<p>As with any ace rag hand, playing these from early position is never advisable, while opening from late position in an unraised pot is considered standard. And you&#8217;ll seldom be in a good spot calling a raise with A 5 or A 7, as you&#8217;ll usually be dominated by anything from A 8 on up.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Heart-7-Heart.jpg" alt="Three of Hearts and Seven of Hearts" /></td>
+<td>103 / 169</td>
+<td>8.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Action junkie players like Gus Hansen made hands like Three Seven suited famous during the poker boom, using the little cards to light up televised final tables.</p>
+<p>And while 3 7 will occasionally transform into a strong hand, that won&#8217;t happen often enough to warrant making the hand a regular part of your holdem arsenal.</p>
+<p>One exception is when playing from late position and using 3 7 suited as a blind steal hand. If you get the raise through, free chips are always great, but in cases when you&#8217;re called by the blinds, they&#8217;ll expect you to have big cards.</p>
+<p>Deception is key to success in holdem, so balancing your raising range with raggedy hands like 3 7 can create fun spots when the right flop comes, as your opponents will have trouble putting you on bad cards once you&#8217;ve raised.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/A-Spade-4-Heart.jpg" alt="Ace of Spades and Four of Hearts" /></td>
+<td>104 / 169</td>
+<td>8.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>This hand is the bane of holdem players for one simple reason: when squeezing your two cards, the 4 happens to look just like an A.</p>
+<p>After holding your breath at the sight of the first ace, a moment of mental cartwheels when you squeeze the 4 is all too common, before the realization sinks in that you have just another ace rag.</p>
+<p>Other than its propensity for tricking players, Ace Four off suit is nothing more than a bad ace. So in full ring games, you&#8217;ll be limited to playing it from late position only, while its relative value improves considerably at a shorthanded table.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Club-3-Club.jpg" alt="Two of Clubs and Three of Clubs" /></td>
+<td>105 / 169</td>
+<td>8.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>This hand is used for one primary purpose by longtime holdem players: making the wheel straight A 2 3 4 5.</p>
+<p>If you can see the flop for just the big blind or a single raise, landing the 4 5 X combination offers a tremendous opportunity. From there, spiking an ace on the turn or river will give you the nut straight with the wheel, while also giving your opponent a very good chance of hitting a strong second best hand with any ace in the hole.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Club-9-Club.jpg" alt="Four of Clubs and Nine of Clubs" /></td>
+<td>106 / 169</td>
+<td>8.70%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Heart-9-Heart.jpg" alt="Three of Hearts and Nine of Hearts" /></td>
+<td>107 / 169</td>
+<td>8.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Suited rags are still rags, and both of these nine high hands simply offer no playability whatsoever.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Diamond-8-Spade.jpg" alt="Jack of Diamonds and Eight of Spades" /></td>
+<td>108 / 169</td>
+<td>8.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Recreational players are invariably caught up on the wrong end of big collisions when playing Jack Eight off suit.</p>
+<p>That 10 9 X flop looks perfect at first, and they eagerly draw to the open ender, only to hit a queen on the turn or river.</p>
+<p>Unfortunately, that hits the K J perfectly for the nuts, and as you&#8217;ll learn, holdem players in 2016 just aren&#8217;t folding an overcard and gutshot combination with K J on the 10 9 X.</p>
+<p>Of course, when that straight is completed by a 7 instead, J 8 off suit for the nuts looks like the most beautiful hand around.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/A-Diamond-3-Club.jpg" alt="Ace Diamonds and Three of Clubs" /></td>
+<td>109 / 169</td>
+<td>8.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Falling under the ace rag category is nothing to brag about, and Ace Three off suit is almost as raggedy as it gets.</p>
+<p>Still, it&#8217;s an ace high hand, so you&#8217;ll see it played here and there.</p>
+<p>When you&#8217;re in middle position and it folds to you, A 3 off suit is the classic open and fold to a three bet hand, as it&#8217;s just good enough to warrant that initial raise, but bad enough to get beaten often by three bet hands.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Club-6-Club.jpg" alt="Two of Clubs and Six of Clubs" /></td>
+<td>100 / 169</td>
+<td>8.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Every so often you&#8217;ll find yourself seeing a flop, usually for free in the big blind, with Deuce Six off suit.</p>
+<p>And when you do, the only real boards you&#8217;ll connect with are 2 2 X or 6 6 X for trips, or a full house. The 3 4 5 board for a straight will certainly look nice, but you&#8217;ll soon discover that opponents have a propensity for turning over 6 7 more often than not in that spot.</p>
+<p>The risk is far greater than the reward when playing a hand like 2 6, so chuck it and wait for a better hand in almost every case.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Spade-9-Spade.jpg" alt="Two of Spades and Nine of Spades" /></td>
+<td>111 / 169</td>
+<td>8.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Whenever you hear another player fold their hand before saying double down with a smile, chances are high that they&#8217;ve just folded Deuce Nine suited or otherwise.</p>
+<p>And while this two card combination is a blackjack player&#8217;s dream, it&#8217;s barely playable at the holdem table. The suitedness may add a bit of equity to the equation, but nine high flushes are beaten by most playable suited hands, so ditching the 2 9 suited before the flop is almost always the right call.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/K-Diamond-8-Spade.jpg" alt="King of Diamonds and Eight of Spades" /></td>
+<td>112 / 169</td>
+<td>8.50%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Unless you&#8217;re the last player to act against a super short stack&#8217;s shove, King Eight off suit is a standard auto fold holding.</p>
+<p>It&#8217;s losing to every king high hand in the deck on the average K X X flop, and eight high flops are a recipe for disaster against 9 9 through A A.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Diamond-6-Club.jpg" alt="Ace of Diamonds and Six of Clubs" /></td>
+<td>113 / 169</td>
+<td>8.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The worst ace rag hand is Ace Six off suit, because it a can&#8217;t make a flush using three board cards, and b can&#8217;t make the wheel straight using three board cards.</p>
+<p>With two options for forming winners removed, A 6 off suit is the epitome of the naked ace – or an ace high hand which tends to land outkicked, non drawing combinations.</p>
+<p>As the table shrinks, however, hands like A 6 off suit become big weapons. In a six handed game, for example, you&#8217;d generally be opening with A 6, or three betting in position. With even fewer players in the game, you&#8217;ll even want to call shoves or put short stacked opponents to the test with this hand.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/7-Heart-8-Spade.jpg" alt="Seven of Hearts and Eight of Spades" /></td>
+<td>114 / 169</td>
+<td>8.40%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Even though this hand lacks a suited dimension, drawing players love to play Seven Eight off suit because it tends to take down premium pocket pairs on many boards.</p>
+<p>You&#8217;ll make two pair with 7 8 off suit as often as you will any other hand, but 7 8 X boards are also draw heavy, so your chances of getting paid off are much higher than with other holdings.</p>
+<p>And boards like 4 5 6, 5 6 9, and 6 9 10 all create the nut straight – while also giving over pairs to the board the perfect chance to hang themselves.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/Q-Diamond-8-Spade.jpg" alt="Queen of Diamonds and Eight of Spades" /></td>
+<td>115 / 169</td>
+<td>8.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>This hand is just Queen Eight suited without the odd chance of landing a straight flush.</p>
+<p>Even worse, the 9 10 J straight board fits perfectly with the eminently more playable K Q, so you&#8217;ll be second best with far too high of a frequency to warrant regular play.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Spade-8-Spade.jpg" alt="Three of Spades and Eight of Spades" /></td>
+<td>116 / 169</td>
+<td>8.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Despite being suited, Three Eight is just a trashy hand that lacks any straight potential, so you&#8217;ll be folding 3 8 suited in nearly every spot.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/A-Diamond-2-Club.jpg" alt="Ace of Diamonds and Two of Clubs" /></td>
+<td>117 / 169</td>
+<td>8.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>You&#8217;ll see plenty of players showing down Ace Deuce off suit simply because any ace is playable in holdem given the right position or pot odds.</p>
+<p>So if you shove a short stack in with something like 9 9, don&#8217;t take it personally if you get called down by acey deucy.</p>
+<p>In a full ring game A 2 off suit plays terribly, offering nothing but the nut low kicker and a good chance of making the dummy straight on a 3 4 5 board to lose big against 6 7.</p>
+<p>But as the number of players in the game decreases, the relative worth of A 2 and all ace high hands goes up accordingly.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Spade-8-Spade.jpg" alt="Two of Spades and Eight of Spades" /></td>
+<td>118 / 169</td>
+<td>8.10%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Imagine the Deuce Seven without the cachet of being the worst hand in the game, and you have Deuce Eight suited.</p>
+<p>It&#8217;s just a bad hand all the way around, and if you get into the business of chasing eight high flush draws, you&#8217;ll be broke and busted soon enough.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/7-Hearts-9-Diamonds.jpg" alt="Seven of Hearts and Nine of Diamonds" /></td>
+<td>119 / 169</td>
+<td>8%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Hands like Seven Nine off suit are deceptive, because while you&#8217;ll hit the nuts on the 5 6 8 and 6 8 10 boards, the 8 10 J board is very vulnerable to Q 9.</p>
+<p>Even so, with two nut straight boards against one second best, 7 9 off suit can be played cheaply in games of all size in an effort to make well disguised monsters.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/09/2-Clubs-7-Clubs.jpg" alt="Two of Clubs and Seven of Clubs" /></td>
+<td>120 / 169</td>
+<td>7.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>See the entry at the bottom of the list and add the appeal of suited cards.</p>
+<p>You&#8217;ll still have nothing but the lowly Deuce Seven, so when you do make flush, it&#8217;ll be only seven high.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/6-Spade-7-Club.jpg" alt="Six of Spades and Seven of Spades" /></td>
+<td>121 / 169</td>
+<td>7.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/K-Heart-7-Club.jpg" alt="King of Hearts and Seven of Clubs" /></td>
+<td>122 / 169</td>
+<td>7.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/5-Diamond-6-Club.jpg" alt="Five of Diamonds and Six of Clubs" /></td>
+<td>123 / 169</td>
+<td>7.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/10-Spade-7-Heart.jpg" alt="Ten of Spades and Seven of Hearts" /></td>
+<td>124 / 169</td>
+<td>7.50%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/K-Heart-6-Spade.jpg" alt="King of Hearts and Six of Spades" /></td>
+<td>125 / 169</td>
+<td>7.50%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/6-Spade-8-Diamond.jpg" alt="Six of Spades and Eight of Diamonds" /></td>
+<td>126 / 169</td>
+<td>7.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Heart-5-Spade.jpg" alt="Four of Hearts and Five of Spades" /></td>
+<td>127 / 169</td>
+<td>7.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/09/K-Diamond-5-Club.jpg" alt="King of Diamonds and Five of Clubs" /></td>
+<td>128 / 169</td>
+<td>7.10%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Spade-7-Diamond.jpg" alt="Jack of Spades and Seven of Diamonds" /></td>
+<td>129 / 169</td>
+<td>7.10%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/5-Spade-7-Diamond.jpg" alt="Five of Spades and Seven of Diamonds" /></td>
+<td>130 / 169</td>
+<td>7%</td>
+</tr>
+</tbody>
+</table></div>
+<p>When assessing this group of 10 marginal off suit hands – all of which play quite similarly to their suited alternative – head back to the suited entry above for the best approach.</p>
+<p>These hands are like pale imitations of their suited predecessors, and they should be played with the appropriate level of caution when compared to the suited alternative.</p>
+<p>So while a hand like Five Six suited is a favorite drawing hand for speculative players, Five Six off suit offers decidedly less potential. That&#8217;s why the suited 5 6 is ranked at 63 / 169 with a 11.10 percent win rate against nine random hands – 67 spots and 4.10 percentage points higher than the off suit version.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Club-7-Heart.jpg" alt="Queen of Clubs and Seven of Hearts" /></td>
+<td>131 / 169</td>
+<td>7%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Famously known as the computer hand, the Queen Seven off suit was found to win almost exactly 50 percent of random hands, while losing the other half, in a computer simulation study.</p>
+<p>Although this conclusion led to a common misconception that Q 7 was the median holdem hand, in reality it&#8217;s much worse at 131/169.</p>
+<p>You&#8217;ll really have no reason to play Q 7 off suit in any other way but a blind steal or a blind defense, as it offers little to no post flop playability.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/K-Diamond-4-Club.jpg" alt="King of Diamonds and Four of Clubs" /></td>
+<td>132 / 169</td>
+<td>7%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/K-Spade-3-Heart.jpg" alt="King of Spades and Three of Hearts" /></td>
+<td>133 / 169</td>
+<td>6.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/K-Heart-2-Club.jpg" alt="King of Hearts and Two of Clubs" /></td>
+<td>134 / 169</td>
+<td>6.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>These nearly identical king rag hands fall into the same category as Q 7 off suit, so you&#8217;ll seldom if ever be calling off chips.</p>
+<p>Instead, raising to steal or defending your blind offer the only legitimate entry points to see the flop with K 4, K 3, or K 2 off suit.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/6-Diamond-9-Spade.jpg" alt="Six of Diamonds and Nine of Spades" /></td>
+<td>135 / 169</td>
+<td>6.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>If you&#8217;re playing a college home game, or at any table with an immature male presence, chances are good that the sixty nine will hit the felt followed by a round of laughs.</p>
+<p>You&#8217;ll have no real reason to play a mediocre hand like Six Nine off suit, as it&#8217;s just one of many two gap combinations that offers little potential, but it has fans nonetheless.</p>
+<p>The best you can hope for is a highly unlikely flopped trips or two pair, or the 7 8 X board for an open ended straight draw.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Heart-6-Spade.jpg" alt="Four of Hearts and Six of Spades" /></td>
+<td>136 / 169</td>
+<td>6.80%</td>
+</tr>
+</tbody>
+</table></div>
+<p>A sneaky hand when you can see a flop, Four Six off suit is still just a one gap combination in rags.</p>
+<p>Boards like 3 5 X and 5 8 X offer decent potential to complete open ended straight draws, and with the baby card boards these made hands will usually attract action.</p>
+<p>The beauty of a hand like 6 4 off suit is that you can easily get away from flopped pairs, as you&#8217;ll never have more than one pair of sixes with a four kicker, so it&#8217;s tough to get damaged all that badly when you miss your monsters.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Club-6-Spade.jpg" alt="Queen of Clubs and Six Spades" /></td>
+<td>137 / 169</td>
+<td>6.60%</td>
+</tr>
+</tbody>
+</table></div>
+<p>On almost every occasion, you&#8217;ll be sending Queen Six off suit into the muck.</p>
+<p>Even as a blind steal or defense hand, Q 6 offers little protection in terms of post flop playability, so feel free to rank this among the auto folds without a second thought.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Club-5-Diamond.jpg" alt="Three of Clubs and Five of Diamonds" /></td>
+<td>138 / 169</td>
+<td>6.60%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Another sneaky hand when just the right board comes A 2 4 or 2 4 6, the Three Five off suit can make two nut straights.</p>
+<p>Other than that though, the hand has little going for it, other than being a nice needle to use after running a successful bluff. When your opponent sees you just won the pot with five high, this can sometimes cause them to start steaming.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/5-Heart-8-Spade.jpg" alt="Five of Hearts and Eight of Spades" /></td>
+<td>139 / 169</td>
+<td>6.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Interestingly enough, the Five Eight off suit rates just lower than a hand like Three Five off suit, despite being dominant.</p>
+<p>That&#8217;s because 3 5 makes two nut straights, while 5 8 only makes one, along with a second best.</p>
+<p>The 5 8 makes the nuts on a 4 6 7 board, but on the 6 7 9 board, it loses to the more playable 8 10.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Heart-6-Spade.jpg" alt="Ten of Hearts and Six of Spades" /></td>
+<td>140 / 169</td>
+<td>6.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Most unsuited two gap combinations are inferior hands, and Ten Six off suit is no different.</p>
+<p>You should avoid entering pots with 10 6 if you have any intention of actually seeing the flop, so with this hand, it&#8217;s blind steal or bust.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Heart-5-Spade.jpg" alt="Queen of Hearts and Five of Spades" /></td>
+<td>141 / 169</td>
+<td>6.30%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The type of hand that will cause a holdem player&#8217;s eyes to glaze over, Queen Five off suit gives you little to no chance of connecting with the board in any serious way.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Heart-4-Spade.jpg" alt="Three of Hearts and Four of Spades" /></td>
+<td>142 / 169</td>
+<td>6.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The entry for Three Four suited is applicable, but you obviously lose the added equity of flush and straight flush draws.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Diamond-4-Club.jpg" alt="Queen of Diamonds and Four Clubs" /></td>
+<td>143 / 169</td>
+<td>6.10%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Spade-3-Heart.jpg" alt="Queen of Spades and Three of Hearts" /></td>
+<td>144 / 169</td>
+<td>6.10%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/Q-Heart-2-Club.jpg" alt="Queen of Hearts and Two of Clubs" /></td>
+<td>145 / 169</td>
+<td>6%</td>
+</tr>
+</tbody>
+</table></div>
+<p>If king rag hands are unplayable in almost every scenario, queen rag combinations like Queen Four, Queen Three, and Queen Deuce off suit are obviously even worse.</p>
+<p>Unless you&#8217;re stealing or defending blinds, these hands are auto folds.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Diamond-7-Spade.jpg" alt="Four of Diamonds and Seven of Spades" /></td>
+<td>146 / 169</td>
+<td>6%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Yet another fit or fold hand, Four Seven off suit will be played when you&#8217;re bold, or bored.</p>
+<p>In either case, unless you happen to flop two pair, trips, or the 5 6 X open ended straight draw, chances are check fold will be your most profitable post flop play.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Heart-6-Club.jpg" alt=""Jack of Hearts and Six of Clubs /></td>
+<td>147 / 169</td>
+<td>5.90%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Just an ugly hand all the way around.</p>
+<p>Jack Six off suit can&#8217;t make a straight using three cards, and offers a bad kicker no matter which card you pair. So it&#8217;s use as a blind steal or defense hand is severely mitigated by the lack of post flop playability.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Diamond-6-Spade.jpg" alt="Three of Diamonds and Six of Spades" /></td>
+<td>148 / 169</td>
+<td>5.70%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Spade-5-Club.jpg" alt="Jack of Spades and Five of Clubs" /></td>
+<td>149 / 169</td>
+<td>5.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/5-Diamond-9-Club.jpg" alt="Five of Diamonds and Nine Clubs" /></td>
+<td>150 / 169</td>
+<td>5.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Diamond-5-Heart.jpg" alt="Two of Diamonds and Five of Hearts" /></td>
+<td>151 / 169</td>
+<td>5.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Heart-4-Club.jpg" alt="Jack of Hearts and Four of Clubs" /></td>
+<td>152 / 169</td>
+<td>5.50%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Spade-3-Heart.jpg" alt="Jack of Spades and Three of Hearts" /></td>
+<td>153 / 169</td>
+<td>5.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Spade-4-Heart.jpg" alt="Two Spades and Four of Hearts" /></td>
+<td>154 / 169</td>
+<td>5.40%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/J-Spade-2-Heart.jpg" alt="Jack of Spades and Two of Hearts" /></td>
+<td>155 / 169</td>
+<td>5.30%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Club-8-Heart.jpg" alt="Four of Clubs and Eight of Hearts" /></td>
+<td>156 / 169</td>
+<td>5.30%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Diamond-5-Spade.jpg" alt="Ten Diamonds and Five of Spades" /></td>
+<td>157 / 169</td>
+<td>5.60%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Spade-4-Diamond.jpg" alt="Ten of Spades and Four of Diamonds" /></td>
+<td>158 / 169</td>
+<td>5%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Diamond-3-Heart.jpg" alt="Two of Diamonds and Three of Hearts" /></td>
+<td>159 / 169</td>
+<td>5%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Club-3-Heart.jpg" alt="Ten of Clubs and Three of Hearts" /></td>
+<td>160 / 169</td>
+<td>5%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Club-7-Diamond.jpg" alt="Three of Clubs and Seven of Diamonds" /></td>
+<td>161 / 169</td>
+<td>4.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/10-Heart-2-Spade.jpg" alt="Ten of Hearts and Two of Spades" /></td>
+<td>162 / 169</td>
+<td>4.90%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Heart-6-Spade.jpg" alt="Two of Hearts and Six of Spades" /></td>
+<td>163 / 169</td>
+<td>4.70%</td>
+</tr>
+</tbody>
+</table></div>
+<p>For this unappealing group of 15 substandard hands, you can apply the same entry found above for the suited variety.</p>
+<p>Simply downgrade a few points of equity because of the lack of suited cards, and play these hands sparingly if at all.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/4-Heart-9-Spade.jpg" alt="Four of Hearts and Nine of Spades" /></td>
+<td>164 / 169</td>
+<td>4.70%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Heart-9-Club.jpg" alt="Three of Hearts and Nine of Clubs" /></td>
+<td>165 / 169</td>
+<td>4.50%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Club-9-Heart.jpg" alt="Two of Clubs and Nine of Hearts" /></td>
+<td>166 / 169</td>
+<td>4.50%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/3-Spade-8-Heart.jpg" alt="Three of Spades and Eight of Hearts" /></td>
+<td>167 / 169</td>
+<td>4.30%</td>
+</tr>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Diamond-8-Heart.jpg" alt="Two of Diamonds and Eight of Hearts" /></td>
+<td>168 / 169</td>
+<td>4.20%</td>
+</tr>
+</tbody>
+</table></div>
+<p>These five hands involving nine  or eight high and a rag kicker are essentially the same, offering no three card straight possibilities and serious kicker trouble when you make one pair.</p>
+<div class="half-section">
+<table class="primary">
+<thead>
+<tr>
+<th>HAND</th>
+<th>RANKS</th>
+<th>WIN PERCENTAGE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/app/uploads/2018/10/2-Heart-7-Club.jpg" alt="Two of Hearts and Seven of Clubs" /></td>
+<td>169 / 169</td>
+<td>4%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The infamous Deuce Seven off suit is known as the lowliest hand in all of holdem, and for good reason. It rates the worst of any hand in the game against a table full of random opponents.</p>
+<p>Some players will claim hands like 3 5 are worse, because when you input 2 7 and 3 5 into a poker hand calculator, the 2 7 actually rates higher.</p>
+<p>But that&#8217;s a heads up battle involving only two hands, so naturally the seven high has a better chance to win based on the many occasions when both hands remained unpaired. As a hand played against the full range of opponent hands, however, 2 7 off suit is the absolute worst holding you can have.</p>
+<p>As such, some players will liven up the game by playing 2 7, either on their own accord or because of the popular deuce seven game played during long cash sessions. When everyone at the table agrees, a bounty usually equal to the game&#8217;s big blind will be paid by every player to whomever can drag a pot and table 2 7 as the winner.</p>
+<h2>Conclusion</h2>
+<p>Even though you never end up playing a hand against nine other random hands, it&#8217;s still valuable to understand how often each hand wins in this situation. Combine the winning percentages listed above with our recommendations for each hand and your personal experience and you&#8217;ll quickly start improving your Texas holdem starting hand play.</p>
+                        </div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+    <div class="container-fluid">
+        <div class="search_bar">
+            <form id="site-search-footer" role="search" method="get" class="search-form" action="https://www.gamblingsites.org/">
+                <label>
+                    <input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+                    <button type="submit" class="search-submit" value=""><i class="icon-search"></i></button>
+                </label>
+            </form>
+        </div>
+        <div class="" id="footernav">
+                            <ul id="menu-footer" class="footer_menu"><li id="gs-item-207" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-207"><span data-hover=""></span><a title="About Us" href="/about/">About Us</a></li>
+<li id="gs-item-216" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-216"><span data-hover=""></span><a title="Contact Us" href="/contact/">Contact Us</a></li>
+<li id="gs-item-217" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-217"><span data-hover=""></span><a title="Privacy Policy" href="/privacy-policy/">Privacy Policy</a></li>
+<li id="gs-item-54327" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54327"><span data-hover=""></span><a title="Terms of Use" href="/terms-of-use/">Terms of Use</a></li>
+<li id="gs-item-54328" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54328"><span data-hover=""></span><a title="Disclaimer" href="/disclaimer/">Disclaimer</a></li>
+<li id="gs-item-54329" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54329"><span data-hover=""></span><a title="Sitemap" href="/sitemap/">Sitemap</a></li>
+<li id="gs-item-70467" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-70467"><span data-hover=""></span><a title="Get Help" href="/gambling/addiction/">Get Help</a></li>
+<li id="gs-item-54330" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-54330"><span data-hover=""></span><a title="Write for Us" href="/write-for-us/">Write for Us</a></li>
+</ul>                    </div>
+
+
+                    <div class="footer-logo"><a href="https://www.gamblingsites.org/"><img src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logo.png" alt="GamblingSites.org Logo"></a></div>
+        
+
+        <div class="footer-disclaimer">
+            <div class="disclaimer-title">GamblingSites.org Disclaimer</div>
+            <div class="disclaimer-text">
+            The information found on Gamblingsites.org is for entertainment purposes only. It is a purely informational website that does not accept wagers of any kind. Although certain pages within Gamblingsites.org feature or promote other online websites where users are able to place wagers, we encourage all visitors to confirm the wagering and/or gambling regulations that are applicable in their local jurisdiction (as gambling laws may vary in different states, countries and provinces).
+
+            Gamblingsites.org uses affiliates links from some of the sportsbooks/casinos it promotes and reviews, and we may receive compensation from those particular sportsbooks/casinos in certain circumstances. Gamblingsites.org does not promote or endorse any form of wagering or gambling to users under the age of 18. If you believe you have a gambling problem, please visit BeGambleAware or GAMCARE for information and help.
+            </div>
+        </div>
+        <div class="recognize-us">
+            <h4>Recognize Us? We've been found on:</h4>
+            <div class="features">
+                <img class="bloomberg" src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logos/bloombergtv.png" alt="BloombergTV Logo"/>
+                <img class="forbes" src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logos/forbes.png" alt="Forbes Logo"/>
+                <img class="inc" src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logos/inc.png" alt="Inc Logo"/>
+                <img class="medium" src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logos/medium.png" alt="Medium Logo"/>
+            </div>
+            <div class="gam-logos">
+                <img src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logos/18logo.png" alt="18-plus-only">
+                <a href="https://www.begambleaware.org/" target="_blank" rel="noopener"><img src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logos/begambleaware.png" alt="Be Gamble Aware Logo"></a>
+                <a href="https://www.gamcare.org.uk/" target="_blank" rel="noopener"><img src="https://www.gamblingsites.org/app/themes/gsorg2018/images/logos/gamcare.png" alt="GamCare Logo"></a>
+            </div>
+            <span class="copyright">Copyright © 2022 GamblingSites.org. <span class="ln2">All Rights Reserved.</span></span>
+        </div>
+    </div>
+</div>
+
+</div><!--parallax close-->
+
+<div class="body-blackout">
+    <div class="popup-modal-blocked" data-popup-modal="blockedTraffic">
+        <span>We're sorry, residents of your region are not accepted by this gambling site!</span>
+        <a href="#">OK</a>
+    </div>
+</div>
+
+<!-- Latest compiled and minified JavaScript -->
+
+		<span id="tipus"></span>
+		<script type="text/javascript">
+
+</script>
+<script id="restrictionsdialog" type="text/x-dot-template">
+    <div data-remodal-id="disallowed">
+        <button data-remodal-action="close" class="remodal-close"></button>
+        <div class="modal-content-wrapper">
+            <div class="top-text">Uh-Oh, looks like <span class="highlight">{{= it.site }}</span> isn't accepted in your region.</span></div>
+            <div class="recommended-wrapper">
+                <div class="disallow-recommend-text">For our <span>{{= it.current_country_name }}</span> visitors, we recommend:</div>
+                <div class="disallow-recommend-logo"><a  target="_blank" rel=“nofollow noopener noreferrer”  href="{{= it.url }}"><img src="{{= it.logo }}" alt="{{= it.recommended }}"></a></div>
+            </div>
+            <div class="disallow-proceed">Proceed to {{= it.site }} anyway?<a  target="_blank" rel=“nofollow noopener noreferrer”  href="{{= it.original_url }}">Click Here to continue</a></div>
+        </div>
+    </div>
+</script>
+<script type='text/javascript' defer src='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/js/modal-d91f442531.js' id='bf-modal-js-js'></script>
+<script type='text/javascript' defer src='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/js/site-cb6f390328.js' id='gsorg2018-site-js-js'></script>
+<script type='text/javascript' src='https://www.gamblingsites.org/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.gamblingsites.org/wp/wp-includes/js/jquery/ui/tabs.min.js?ver=1.12.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' defer src='https://www.gamblingsites.org/app/themes/gsorg2018/js/remodal.min.js' id='remodal-js'></script>
+<script type='text/javascript' defer src='https://www.gamblingsites.org/app/themes/gsorg2018/public/build/js/custom-b111f29491.js' id='gsorg2018-custom-js-js'></script>
+<script type='text/javascript' id='thickbox-js-extra'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/www.gamblingsites.org\/wp\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.gamblingsites.org/app/themes/gsorg2018/public/js/thickbox-optimized.js?ver=3.1-20121105' id='thickbox-js'></script>
+
+
+
+<button type="button" class="scrollToTopBtn">
+    <img src="https://www.gamblingsites.org/app/themes/gsorg2018/images/arrow.png" alt="">
+    <span>TOP</span>
+</button>
+
+<!--
+            // Show CTA Footer if is available
+            -->
+
+
+            
+            <div class="cta-sticky-footer">
+                <div class="cta-sticky-footer__wrapper">
+                    <div class="cta-sticky-footer__ribbon"><img height="97" width="72" src="/app/themes/gsorg2018/images/ribbon-sb.png" alt="1st place site"></div>
+                    <div class="cta-sticky-footer__date">
+                        <div class="cta-sticky-footer__month"><span>December</span></div>
+                        <div class="cta-sticky-footer__desc">Gambling Site of the Month</div>
+                    </div>
+                    <a rel="nofollow noopener noreferrer" href="/go/wild-casino-ootm/" class="cta-sticky-footer__logo">
+                        <img class="inner" 
+                            height="160" 
+                            width="316" 
+                            src="https://www.gamblingsites.org/app/uploads/2022/07/wild-casino-logo-gad-table-316x160.jpg" 
+                            alt="1st place site"
+                        >
+                    </a>
+                    <div class="cta-sticky-footer__bonus">
+                        <div class="cta-sticky-footer__percentage">250% Match Bonus</div>
+                        <div class="cta-sticky-footer__cash"><span>Up to $5,000</span></div>
+                    </div>
+                    <div class="cta-sticky-footer__button">
+                        <a rel="noopener noreferrer nofollow noindex" href="/go/wild-casino-ootm/" class="cta-sticky-footer__cta">Visit Site</a>
+                        <a href="https://www.gamblingsites.org/reviews/wild-casino/" class="cta-sticky-footer__review">Read Review</a>
+                    </div>
+                    <button class="cta-sticky-footer__close" data-days="2">Close</button>
+                </div>
+            </div>
+
+            
+
+
+<!--
+ // InLinks SEO tool Script
+-->
+<script defer="" src="https://jscloud.net/spr/20226/inlinks.js"></script>
+</body>
+</html>
